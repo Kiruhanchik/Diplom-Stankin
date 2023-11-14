@@ -9,7 +9,7 @@ export default function Navigation() {
         if (searchText === 'общежитие' || searchText === 'общежития') {
             window.open('https://stankin.ru/pages/id_88/page_598'); 
             setSearchText('');
-        } else if (searchText === 'общежитие 3' || searchText === 'общежитие 1') {
+        } else if (searchText === 'общежитие 3' || searchText === 'Общежитие 3' || searchText === 'общежитие 1') {
             window.open('https://t.me/hostelvadkovskii');
             setSearchText('');
         } else {
