@@ -1,0 +1,73 @@
+{
+  "name": "diplom",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@react-email/render": "^0.0.7",
+    "@react-pdf/renderer": "^3.1.12",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/nodemailer": "^6.4.13",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "mail": "^0.2.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.2",
+    "net": "^1.0.2",
+    "node-polyfill-webpack-plugin": "^2.0.1",
+    "node-tls": "^0.10.2",
+    "nodemailer": "^6.9.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "5.0.1",
+    "sass": "^1.68.0",
+    "stream": "^0.0.2",
+    "util": "^0.12.5",
+    "web-vitals": "^2.1.4"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false,
+    "tls": false
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "process": "^0.11.10",
+    "react-app-rewired": "^2.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.3"
+  }
+}

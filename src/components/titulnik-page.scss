@@ -1,0 +1,90 @@
+#titulnik-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    #header-page {
+        font-size: 130%;
+        padding-top: 1%;
+        padding-bottom: 0.5%;
+        border-bottom: 1.5px solid black;
+    }
+    main {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: center;
+        margin-top: 5%;
+        #params {
+            display: flex;
+            flex-direction: column;
+            align-items: left;
+            input {
+                border: 1.5px solid black;
+                border-radius: 6px;
+                height: 25px;
+                box-shadow: 2px 2px 2px rgb(168, 166, 166);
+                font-size: 90%;
+            }
+            select {
+                border: 1.5px solid black;
+                border-radius: 6px;
+                height: 25px;
+                box-shadow: 2px 2px 2px rgb(168, 166, 166); 
+                font-size: 90%;
+            }
+            label {
+                margin-bottom: 3%;
+                margin-top: 3%;
+                font-weight: 600;
+            }
+        }
+        #result {
+            margin-left: 10%;
+        }
+        #work-date {
+            width: 50%;
+            height: 50px;
+        }
+        #save-file {
+            margin-top: 6%;
+            height: 30px;
+            font-size: 100%;
+            border: 1.5px solid black;
+            border-radius: 6px;
+            box-shadow: 2px 2px 2px rgb(168, 166, 166);
+            transition: 0.3s;
+        }
+        #save-file:hover {
+            background: rgb(193, 26, 14);
+            color: white;
+        }
+        #save-file:active {
+            transform:scale(0.95);
+            border-width: 2px;
+        }
+    }
+}
+
+@media (max-width: 320px) {
+    #titulnik-page {
+        #header-page {
+            font-size: 130%;
+            height: 10%;
+        }
+        main {
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            #result {
+                margin: 0;
+            }
+            #params {
+                text-align: center;
+                align-items: center;
+                width: 80%;
+                
+            }
+        }
+    }
+}

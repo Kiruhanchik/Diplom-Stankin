@@ -1,0 +1,110 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: maroon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    header {
+        height: 10%;
+        color: white;
+        width: 100vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 160%;
+        font-weight: 500;
+        a {
+            text-decoration: none;
+            color: white;
+            margin-left: 1%;
+            transition: 0.3s;
+            border-bottom: 1.5px solid white;
+            &:hover {
+                color: rgb(255, 255, 0);
+                border-color: rgb(255, 255, 0);
+            }
+        }
+    }
+    main {
+        background-color: white;
+        height: 100%;
+        width: 100vw;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2%;
+        p {
+            font-size: 150%;
+        }
+        #start {
+            width: 15%;
+            height: 40px;
+            font-size: 110%;
+            font-weight: 500;
+            color: white;
+            border-radius: 8px;
+            background-image: linear-gradient(60deg, #8d0707 0%, #dd0707 46%, #ff6b08 100%);
+            background-size: 200% auto;
+            background-position: 0 0;
+            box-shadow: 3px 3px 6px rgb(78, 77, 77);
+            cursor: pointer;
+            transition: 0.5s;
+            &:hover {
+                background-position: 100% 0;
+            }
+        }
+        h2 {
+            font-size: 150%;
+        }
+        a {
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-decoration: none;
+            color: black;
+            font-weight: 500;
+            border: 3px solid black;
+            font-size: 130%;
+            height: 50px;
+            width: 50%;
+            border-radius: 10px;
+            transition: 0.3s;
+            box-shadow: 3px 3px 6px rgb(78, 77, 77);
+            &:hover {
+                background-color: maroon;
+                color: white;
+            }
+        }
+    }
+}
+
+
+@media (max-width: 320px) {
+    .App {
+        header {
+            font-size: 130%;
+            height: 11%;
+        }
+        main {
+            p {
+                font-size: 120%;
+                text-align: center;
+            }
+            #start {
+                width: 60%;
+            }
+            h2 {
+                font-size: 140%;
+            }
+            a {
+                width: 80%;
+                font-size: 110%;
+            }
+        }
+    }
+}

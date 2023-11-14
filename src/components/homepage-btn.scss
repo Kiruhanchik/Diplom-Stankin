@@ -1,0 +1,19 @@
+#home {
+    position: fixed;
+    display: flex;
+    left: 1%;
+    top: 2%;
+    transition: 0.3s;
+}
+
+#home:hover {
+    fill: rgb(170, 21, 21);
+}
+
+@media (max-width: 320px) {
+    #home {
+        width: 30px;
+        height: 30px;
+    }
+}
+

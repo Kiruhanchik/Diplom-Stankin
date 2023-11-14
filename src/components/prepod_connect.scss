@@ -1,0 +1,71 @@
+#prepod-Connect {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    p {
+        margin: 0;
+    }
+    header {
+        font-size: 130%;
+        padding-top: 1%;
+        padding-bottom: 0.5%;
+        border-bottom: 1.5px solid black;
+    }
+    main {
+        margin-top: 2%;
+        margin-bottom: 3%;
+        width: 100%;
+        #prepods {
+            display: grid; 
+            grid-template-areas: 
+                ". . ."
+                ". . ."
+                ". . ."; 
+            grid-auto-flow: dense;
+            justify-content: center;
+            align-items: center;
+            row-gap: 50px;
+        } 
+        #prepod {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            img {
+                width: 30%;
+                border: 3px solid rgb(168, 9, 9);
+                border-radius: 8px;
+                transition: 0.3s;
+                &:hover {
+                    background-color: aquamarine;
+                }
+            }
+            #bio {
+                margin-left: 5%;
+                p {
+                    margin-bottom: 5%;
+                    font-weight: 600;
+                }
+                #prepod-name {
+                    border-bottom: 1.5px solid black;
+                    padding-bottom: 2px;
+                }
+                button {
+                    width: 50%;
+                    height: 25px;
+                    background-color: rgb(255, 255, 255);
+                    font-size: 90%;
+                    border: 2px solid black;
+                    border-radius: 6px;
+                    transition: 0.3s;
+                    cursor: pointer;
+                    &:hover {
+                        background-color: rgb(170, 21, 21);
+                        color: white;
+                    }
+                }
+            }
+        }
+    }
+}
