@@ -5,6 +5,7 @@ import { useState } from 'react';
 import jsPDF from 'jspdf'
 import html2canvas from 'html2canvas';
 import HomepageBtn from './homepage-btn';
+import Header from './header.jsx';
 
 export default function TitulnikPage() {
     const [studentName, setStudentName] = useState('');
@@ -63,7 +64,7 @@ export default function TitulnikPage() {
     return (
         <div id='titulnik-page'>
             <HomepageBtn/>
-            <header id='header-page'>Генератор титульника</header>
+            <Header title='Генератор титульника'/>
             <main>
                 <section id='params'>
                     <label htmlFor="student-name">Ваше ФИО (Иванов И.И.)</label>

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './navigation-page.scss';
 import HomePage from './homepage-btn';
+import Header from './header.jsx';
 
 export default function Navigation() {
     const [searchText, setSearchText] = useState('');
@@ -29,7 +30,7 @@ export default function Navigation() {
     return (
         <div id='navigation'>
             <HomePage/>
-            <header>Навигация по разделам Станкина</header>
+            <Header title='Навигация по разделам Станкина'/>
             <main>
                 <div id='search-form'>
                     <input onChange={(el) => {setSearchText(el.target.value); console.log(searchText)}} id='search-input' type="text" placeholder='Введите то, что хотите найти' />

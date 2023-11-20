@@ -27,6 +27,7 @@ function App() {
         <Link to='/titulnik'>Генерация титульного листа</Link>
         <Link to='/navigation'>Навигация по разделам вуза</Link>
         <Link to='/connect'>Быстрая связь с преподавателями кафедры</Link>
+        <Link to='/advises'>Советы для студентов</Link>
       </main>
     </div>
   );

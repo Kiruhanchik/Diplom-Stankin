@@ -1,0 +1,14 @@
+.header {
+    height: 10%;
+    color: black;
+    font-size: 160%;
+    font-weight: 500;
+    border-bottom: 2px solid black;
+}
+
+@media (max-width: 320px) {
+    .header {
+        font-size: 110%;
+        height: 11%;
+    }
+}

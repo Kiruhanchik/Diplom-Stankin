@@ -4,6 +4,7 @@ import HomepageBtn from './homepage-btn';
 import data from '../data/prepods.json';
 import PrepodPopup from './prepod_popup';
 import { useState } from 'react';
+import Header from './header.jsx';
   
 export default function PrepodConnect() {
 
@@ -28,7 +29,7 @@ export default function PrepodConnect() {
         <div id='prepod-Connect'>
             <HomepageBtn/>
             <PrepodPopup active={active} setActive={setActive} />  
-            <header>Быстрая связь с преподавателями</header>
+            <Header title='Быстрая связь с преподавателями'/>
             <main>
                 <div id='prepods'>
                     {prepods()}

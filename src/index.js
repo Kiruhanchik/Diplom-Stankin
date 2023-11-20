@@ -5,6 +5,7 @@ import App from './App';
 import Navigation from './components/navigation-page.jsx';
 import TitulnikPage from './components/titulnik-page.jsx';
 import PrepodConnect from './components/prepod_connect.jsx';
+import Advises from './components/advises.jsx'
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route} from 'react-router-dom'
 
@@ -17,6 +18,7 @@ root.render(
         <Route path='/titulnik' element={<TitulnikPage/>}/>
         <Route path='/navigation' element={<Navigation/>}/>
         <Route path='/connect' element={<PrepodConnect/>}/>
+        <Route path='/advises' element={<Advises/>}/>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
