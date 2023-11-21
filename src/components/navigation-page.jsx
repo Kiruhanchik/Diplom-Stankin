@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './navigation-page.scss';
 import HomePage from './homepage-btn';
 import Header from './header.jsx';
+import { useSpring, animated } from 'react-spring'
 
 export default function Navigation() {
     const [searchText, setSearchText] = useState('');
@@ -27,8 +28,14 @@ export default function Navigation() {
         }
     }
 
+    const animation = useSpring({
+        from: { opacity: 0 }, // начальные стили
+        to: { opacity: 1 }, // конечные стили
+        config: { duration: 300 } // настройки анимации
+    })
+
     return (
-        <div id='navigation'>
+        <animated.div id='navigation' style={animation}>
             <HomePage/>
             <Header title='Навигация по разделам Станкина'/>
             <main>
@@ -37,6 +44,6 @@ export default function Navigation() {
                     <button id='find-btn' onClick={searchHandle}>Найти</button>
                 </div>
             </main>
-        </div>
+        </animated.div>
     )
 }

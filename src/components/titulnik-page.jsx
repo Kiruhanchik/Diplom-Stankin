@@ -6,6 +6,7 @@ import jsPDF from 'jspdf'
 import html2canvas from 'html2canvas';
 import HomepageBtn from './homepage-btn';
 import Header from './header.jsx';
+import { useSpring, animated } from 'react-spring'
 
 export default function TitulnikPage() {
     const [studentName, setStudentName] = useState('');
@@ -25,6 +26,12 @@ export default function TitulnikPage() {
             el.style.borderColor = 'black';
             el.style.backgroundColor = 'white';
         })
+    })
+
+    const animation = useSpring({
+        from: { opacity: 0 }, // начальные стили
+        to: { opacity: 1 }, // конечные стили
+        config: { duration: 300 } // настройки анимации
     })
 
     
@@ -62,7 +69,7 @@ export default function TitulnikPage() {
     }
 
     return (
-        <div id='titulnik-page'>
+        <animated.div id='titulnik-page' style={animation}>
             <HomepageBtn/>
             <Header title='Генератор титульника'/>
             <main>
@@ -149,6 +156,6 @@ export default function TitulnikPage() {
                     />
                 </section>
             </main>
-        </div>
+        </animated.div>
     )
 }

@@ -5,6 +5,7 @@ import data from '../data/prepods.json';
 import PrepodPopup from './prepod_popup';
 import { useState } from 'react';
 import Header from './header.jsx';
+import { useSpring, animated } from 'react-spring'
   
 export default function PrepodConnect() {
 
@@ -25,8 +26,14 @@ export default function PrepodConnect() {
         })
     }
 
+    const animation = useSpring({
+        from: { opacity: 0 }, // начальные стили
+        to: { opacity: 1 }, // конечные стили
+        config: { duration: 300 } // настройки анимации
+    })
+
     return (
-        <div id='prepod-Connect'>
+        <animated.div id='prepod-Connect' style={animation}>
             <HomepageBtn/>
             <PrepodPopup active={active} setActive={setActive} />  
             <Header title='Быстрая связь с преподавателями'/>
@@ -35,6 +42,6 @@ export default function PrepodConnect() {
                     {prepods()}
                 </div>
             </main>
-        </div>
+        </animated.div>
     )
 }

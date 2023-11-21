@@ -3,10 +3,18 @@ import HomePage from './homepage-btn';
 import './advises.scss';
 import students from '../img/students.jpg';
 import Header from './header.jsx';
+import { useSpring, animated } from 'react-spring'
 
-export default function advises() {
+export default function Advises() {
+
+  const animation = useSpring({
+    from: { opacity: 0 }, // начальные стили
+    to: { opacity: 1 }, // конечные стили
+    config: { duration: 300 } // настройки анимации
+  })
+
   return (
-    <div id='advises'>
+    <animated.div id='advises' style={animation}>
         <HomePage/>
         <Header title='Советы'/>
         <main>
@@ -23,6 +31,6 @@ export default function advises() {
           </section>
           <img src={students} alt="" />
         </main>
-    </div>
+    </animated.div>
   )
 }
