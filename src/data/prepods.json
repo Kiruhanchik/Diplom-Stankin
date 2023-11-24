@@ -3,133 +3,155 @@
     "id": 1,
     "name": "Евстафиева Светлана Владимировна",
     "mail": "svetlana.evstafieva@gmail.com",
-    "photo": "https://stankin.ru/uploads/files/file_5c34e36577e64.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c34e36577e64.jpg",
+    "job_title": "Старший преподаватель"
   },
   {
     "id": 2,
     "name": "Червоннова Надежда Юрьевна",
     "mail": "4ervonnova@list.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c34e5531bad8.png"
+    "photo": "https://stankin.ru/uploads/files/file_5c34e5531bad8.png",
+    "job_title": "Старший преподаватель"
   },
   {
     "id": 3,
     "name": "Пушков Роман Львович",
     "mail": "pushkov@ncsystems.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c34e48f7044a.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c34e48f7044a.jpg",
+    "job_title": "Доцент"
   },
   {
     "id": 4,
     "name": "Саламатин Евгений Валериевич",
     "mail": "salamatin@ncsystems.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c35fd22b2796.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c35fd22b2796.jpg",
+    "job_title": "Заведующий лабораторией"
   },
   {
     "id": 5,
     "name": "Никишечкин Анатолий Петрович",
     "mail": "anatolij-petrovich@yandex.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c3601039ea55.png"
+    "photo": "https://stankin.ru/uploads/files/file_5c3601039ea55.png",
+    "job_title": "Доцент"
   },
   {
     "id": 6,
     "name": "Никишечкин Петр Анатольевич",
     "mail": "pnikishechkin@gmail.com",
-    "photo": "https://stankin.ru/uploads/files/file_5c22232c38964.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c22232c38964.jpg",
+    "job_title": "Доцент"
   },
   {
     "id": 7,
     "name": "Соколов Сергей Владимирович",
     "mail": "sokolov@ncsystems.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c2226fb4b9b5.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c2226fb4b9b5.jpg",
+    "job_title": "Доцент"
   },
   {
     "id": 8,
     "name": "Ковалев Илья Александрович",
     "mail": "i.kovalev@stankin.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c34e2ff05797.png"
+    "photo": "https://stankin.ru/uploads/files/file_5c34e2ff05797.png",
+    "job_title": "Доцент"
   },
   {
     "id": 9,
     "name": "Суханова Наталия Вячеславовна",
     "mail": "n_v_sukhanova@mail.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c34e242c36a4.png"
+    "photo": "https://stankin.ru/uploads/files/file_5c34e242c36a4.png",
+    "job_title": "Доцент"
   },
   {
     "id": 10,
     "name": "Рыбников Сергей Валентинович",
     "mail": "rybnikov@ncsystems.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c35fa269cd3f.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c35fa269cd3f.jpg",
+    "job_title": "Заведующий лабораторией"
   },
   {
     "id": 11,
     "name": "Никич Анатолий Николаевич",
     "mail": "a.nikich@stankin.ru",
-    "photo": "https://v3.leader-id.ru/files/user_photo/471486/471486_200.jpg"
+    "photo": "https://v3.leader-id.ru/files/user_photo/471486/471486_200.jpg",
+    "job_title": "Преподаватель; Инженер 2 категории"
   },
   {
     "id": 13,
     "name": "Фурман Евгений Иванович",
     "mail": "e.furman@stankin.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5dc1659c07ce9.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5dc1659c07ce9.jpg",
+    "job_title": "Ассистент"
   },
   {
     "id": 14,
     "name": "Аль Хури Акрам",
     "mail": "akramalkhoury@gmail.com",
-    "photo": "https://stankin.ru/uploads/files/file_5f8ae69264454.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5f8ae69264454.jpg",
+    "job_title": "Преподаватель"
   },
   {
     "id": 15,
     "name": "Коваленко Артем Валерьевич",
     "mail": "avk@niat.ru",
-    "photo": "https://stankin.ru/uploads/files/default-user.png"
+    "photo": "https://stankin.ru/uploads/files/default-user.png",
+    "job_title": "Доцент"
   },
   {
     "id": 16,
     "name": "Коваленко Артем Валерьевич",
     "mail": "avk@niat.ru",
-    "photo": "https://stankin.ru/uploads/files/default-user.png"
+    "photo": "https://stankin.ru/uploads/files/default-user.png",
+    "job_title": "Доцент"
   },
   {
     "id": 17,
     "name": "Мартемьянова Наталья Сергеевна",
     "mail": "n.martemianova@stankin.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5f7b134bc95ae.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5f7b134bc95ae.jpg",
+    "job_title": "Преподаватель; Инженер"
   },
   {
     "id": 18,
     "name": "Нежметдинова Рамиля Амировна",
     "mail": "n.ramilya@gmail.com",
-    "photo": "https://stankin.ru/uploads/files/default-user.png"
+    "photo": "https://stankin.ru/uploads/files/default-user.png",
+    "job_title": "Доцент"
   },
   {
     "id": 19,
     "name": "Фокин Николай Николаевич",
     "mail": "nikolfokin@gmail.com",
-    "photo": "https://stankin.ru/uploads/files/default-user.png"
+    "photo": "https://stankin.ru/uploads/files/default-user.png",
+    "job_title": "Старший преподаватель"
   },
   {
     "id": 20,
     "name": "Нежметдинов Рамиль Амирович",
     "mail": "r.nezhmetdinov@stankin.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c52f7a76ec0e.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c52f7a76ec0e.jpg",
+    "job_title": "Профессор"
   },
   {
     "id": 21,
     "name": "Кротова Наталия Алексеевна",
     "mail": "n.krotova@stankin.ru",
-    "photo": "https://stankin.ru/uploads/files/default-user.png"
+    "photo": "https://stankin.ru/uploads/files/default-user.png",
+    "job_title": "Инженер"
   },
   {
     "id": 22,
     "name": "Седьмов Андрей Эдуардович",
     "mail": "a.sedmov@stankin.ru",
-    "photo": "https://stankin.ru/uploads/files/file_61a87c56221b6.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_61a87c56221b6.jpg",
+    "job_title": "Преподаватель"
   },
   {
     "id": 23,
     "name": "Мартинов Георги Мартинов",
     "mail": "g.martinov@stankin.ru",
-    "photo": "https://stankin.ru/uploads/files/file_5c52f2cab9f5f.jpg"
+    "photo": "https://stankin.ru/uploads/files/file_5c52f2cab9f5f.jpg",
+    "job_title": "Заведующий кафедрой"
   }
 ]
 

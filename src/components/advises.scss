@@ -12,18 +12,28 @@
         section {
             width: 40%;
             h1 {
-                font-size: 150%;
+                font-size: 140%;
             }
             ul {
                 li {
-                    font-size: 110%;
+                    font-size: 125%;
                     margin-top: 2%;
+                    a {
+                        text-decoration: none;
+                        color: blue;
+                        font-weight: 500;
+                        transition: 0.3s;
+                        &:hover {
+                            color: red;
+                        }
+                    }
                 }
                 
             }
         }
         img {
-            width: 40%;
+            width: 35%;
+            margin-left: 5%;
         }
     }
 }

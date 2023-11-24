@@ -9,15 +9,14 @@ import Header from './header.jsx';
 import { useSpring, animated } from 'react-spring'
 
 export default function TitulnikPage() {
+    
     const [studentName, setStudentName] = useState('');
     const [prepodName, setPrepodName] = useState('');
-    const [prepodJob, setPrepodJob] = useState('');
     const [group, setGroup] = useState('');
     const [predmet, setPredmet] = useState('');
     const [workType, setWorkType] = useState('');
     const [year, setYear] = useState('');
     const [institute, setInstitute] = useState('цифровых интеллектуальных систем');
-    const [kafedra, setKafedra] = useState('комьютерных систем управления');
     const [specialty, setSpecialty] = useState('');
     const [programNumber, setProgramNumber] = useState('');
 
@@ -85,8 +84,7 @@ export default function TitulnikPage() {
                             document.querySelector('select').style.backgroundColor = '#fefefe';
                         }}>
                         <optgroup label = "Выберите преподавателя">
-                            <option value=""></option>
-                            <option value="Мартинов     Г.М.">Мартинов Г.М.</option>
+                            <option value="Мартинов Г.М.">Мартинов Г.М.</option>
                             <option value="Евстафиева С.В.">Евстафиева С.В.</option>
                             <option value="Червоннова Н.Ю.">Червоннова Н.Ю.</option>
                             <option value="Пушков Р.Л.">Пушков Р.Л.</option>
@@ -109,10 +107,6 @@ export default function TitulnikPage() {
                             <option value="Седьмов А.Э.">Седьмов А.Э.</option>
                         </optgroup>
                     </select>
-                    <label htmlFor="prepod-job">Должность преподавателя(к.т.н и т.д.)</label>
-                    <input id='prepod-job' type="text" placeholder='Введите текст' onChange={(el) => {
-                        setPrepodJob(el.target.value);
-                    }}/>
                     <label htmlFor="student-group">Ваша группа (ААА-33-44)</label>
                     <input id='student-group' type="text" placeholder='Введите текст' onChange={(el) => {
                         setGroup(el.target.value);
@@ -121,10 +115,33 @@ export default function TitulnikPage() {
                     <input id='student-predmet' type="text" placeholder='Введите текст' onChange={(el) => {
                         setPredmet(el.target.value);
                     }}/>
+                    <label htmlFor="institute">Институт</label>
+                    <select name="" id="institute" onChange={(el) => {
+                            setInstitute(el.target.value);
+                            document.querySelector('#institute').style.borderColor = 'black';
+                            document.querySelector('#institute').style.backgroundColor = '#fefefe';
+                        }}>
+                        <optgroup label = "Выберите институт">
+                            <option value="производственных технологий и инжиниринга">Институт производственных технологий и инжиниринга</option>
+                            <option value="цифровых интеллектуальных систем">Институт цифровых интеллектуальных систем</option>
+                            <option value="информационных технологий">Институт информационных технологий</option>
+                            <option value="социально-технологического менеджмента">Институт социально-технологического менеджмента</option>
+                        </optgroup>
+                    </select>
                     <label htmlFor="work-type">Тип работы (лабораторная работа и тд)</label>
-                    <input id='work-type' type="text" placeholder='Введите текст' onChange={(el) => {
-                        setWorkType(el.target.value);
-                    }}/>
+                    <select name="" id="work-type" onChange={(el) => {
+                            setWorkType(el.target.value);
+                            document.querySelector('#work-type').style.borderColor = 'black';
+                            document.querySelector('#work-type').style.backgroundColor = '#fefefe';
+                        }}>
+                        <optgroup label = "Выберите тип работы">
+                            <option value="Отчет по лабораторной работе">Лабораторная работа</option>
+                            <option value="Отчет по практической работе">Практическая работа</option>
+                            <option value="Отчет по курсовой работе">Курсовая работа</option>
+                            <option value="Доклад">Доклад</option>
+                            <option value="Реферат">Реферат</option>
+                        </optgroup>
+                    </select>
                     <label htmlFor="work-date">Год работы</label>
                     <input id='work-date' type="number" placeholder='Введите число' onChange={(el) => {
                         setYear(el.target.value);
@@ -143,13 +160,11 @@ export default function TitulnikPage() {
                     <Titulnik 
                         name={studentName} 
                         name2={prepodName}
-                        prepodJob={prepodJob}
                         group={group}
                         predmet={predmet}
                         workType={workType}
                         year={year}
                         institute={institute}
-                        kafedra={kafedra}
                         specialty={specialty}
                         programNumber={programNumber}
                         id='titulnik'
