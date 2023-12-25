@@ -4,6 +4,7 @@ import HomePage from './homepage-btn';
 import Header from './header.jsx';
 import { useSpring, animated } from 'react-spring'
 import Pages from '../components/pages.jsx';
+import Dark_theme from '../components/dark_theme.jsx'
 
 export default function Navigation() {
 
@@ -19,6 +20,7 @@ export default function Navigation() {
             <Header title='Навигация по разделам Станкина'/>
             <main>
                 <Pages/>
+                <Dark_theme/>
             </main>
         </animated.div>
     )

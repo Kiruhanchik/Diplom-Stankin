@@ -1,0 +1,13 @@
+.Moon-icon {
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    cursor: pointer;
+    &:hover {
+        path {
+            fill: rgb(255, 38, 0);
+        }
+    }
+}
+
+

@@ -7,6 +7,7 @@ import html2canvas from 'html2canvas';
 import HomepageBtn from './homepage-btn';
 import Header from './header.jsx';
 import { useSpring, animated } from 'react-spring'
+import Dark_theme from '../components/dark_theme.jsx'
 
 export default function TitulnikPage() {
     
@@ -170,6 +171,7 @@ export default function TitulnikPage() {
                         id='titulnik'
                     />
                 </section>
+                <Dark_theme/>
             </main>
         </animated.div>
     )

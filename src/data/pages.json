@@ -46,5 +46,23 @@
         "title": "Контакты",
         "img": "https://stankin.ru/uploads/files/redactor0_5d11242d33c6b.jpg",
         "link": "https://stankin.ru/pages/id_86/page_412"
+    },
+    {
+        "id": 10,
+        "title": "КЛУБ",
+        "img": "https://vstankine.ru/wp-content/uploads/2023/09/EDB-23-05-STANKIN.Pogruzhenie-TSentr-Klub-STANKINa-450x301.jpg",
+        "link": "https://www.youtube.com/@user-jp8wo3ct2f"
+    },
+    {
+        "id": 11,
+        "title": "В Станкине. Будь в курсе",
+        "img": "https://sun9-62.userapi.com/impf/woDBjUj0Mvtaj-1LV69DYj24uj2QfiZpQ0EArQ/OaFStr2iS60.jpg?size=1818x606&quality=95&crop=475,0,2501,833&sign=63983247f7d434ceda8b1c5b22f6a9ec&type=cover_group",
+        "link": "https://vk.com/vstankine"
+    },
+    {
+        "id": 12,
+        "title": "Электронно-образовательная среда",
+        "img": "https://mudl.ru/wp-content/uploads/2021/01/%D0%BC%D0%B3%D1%82%D1%83-%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD.png",
+        "link": "https://edu.stankin.ru/"
     }
 ]

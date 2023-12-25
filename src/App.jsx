@@ -1,8 +1,9 @@
 import './App.scss';
 import { Link } from "react-router-dom";
+import Dark_theme from './components/dark_theme'
  
 function App() {
- 
+
   const launchHandler = () => {
     localStorage.setItem('firstLaunch', false);
     window.location.reload(false);
@@ -28,6 +29,7 @@ function App() {
         <Link to='/navigation'>Навигация по разделам вуза</Link>
         <Link to='/connect'>Быстрая связь с преподавателями кафедры</Link>
         <Link to='/advises'>Советы для студентов</Link>
+        <Dark_theme/>
       </main>
     </div>
   );

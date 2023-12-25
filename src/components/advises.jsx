@@ -4,6 +4,7 @@ import './advises.scss';
 import students from '../img/students.jpg';
 import Header from './header.jsx';
 import { useSpring, animated } from 'react-spring'
+import Dark_theme from '../components/dark_theme.jsx'
 
 export default function Advises() {
 
@@ -30,7 +31,8 @@ export default function Advises() {
               <li>Вы можете посетить профком - в нем вам помогут с решением студенческих вопросов, участием в интересных мероприятиях и тд. 👉 <a href="https://vk.com/profstankin" target="_blank">Профком</a></li>
             </ul>
           </section>
-          <img src={students} alt="" />
+          <img src={students} alt="students-img" />
+          <Dark_theme/>
         </main>
     </animated.div>
   )
