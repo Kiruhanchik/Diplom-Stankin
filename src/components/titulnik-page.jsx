@@ -2,8 +2,7 @@ import './titulnik-page.scss';
 import Titulnik from './titulnik.jsx';
 import React from 'react';
 import { useState } from 'react';
-import jsPDF from 'jspdf'
-import html2canvas from 'html2canvas';
+import Save from '../services/save.services.js';
 import HomepageBtn from './homepage-btn';
 import Header from './header.jsx';
 import { useSpring, animated } from 'react-spring'
@@ -33,40 +32,6 @@ export default function TitulnikPage() {
         to: { opacity: 1 }, // конечные стили
         config: { duration: 300 } // настройки анимации
     })
-
-    
-
-    const handleDownload = () => {
-        const pdf = new jsPDF('p', 'mm', 'a4');
-        const element = document.getElementById('titulnik');
-        html2canvas(element).then((canvas) => {
-        const imgData = canvas.toDataURL('image/jpeg', 1.0);
-        const imgProps = pdf.getImageProperties(imgData);
-        const pdfWidth = pdf.internal.pageSize.getWidth();
-        const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
-        pdf.addImage(imgData, 'JPEG', 0, 0, pdfWidth, pdfHeight);
-        pdf.save(`Титульник-${studentName}pdf`);
-        });
-    }
-
-    const save = () => {
-        let correct = true;
-        document.querySelectorAll('input').forEach((el) => {
-            if (el.value === '') {
-                el.style.borderColor = 'red';
-                el.style.backgroundColor = '#F3E2E2';
-                correct = false;
-            } 
-        })
-        if (document.querySelector('select').value === '') {
-            document.querySelector('select').style.borderColor = 'red';
-            document.querySelector('select').style.backgroundColor = '#F3E2E2';
-            correct = false;
-        }
-        if (correct) {
-            handleDownload();
-        }
-    }
 
     return (
         <animated.div id='titulnik-page' style={animation}>
@@ -155,7 +120,7 @@ export default function TitulnikPage() {
                     <input id='program-number' type="text" placeholder='Введите текст' onChange={(el) => {
                         setProgramNumber(el.target.value);
                     }}/>
-                    <button onClick={save} id='save-file'>Скачать</button>
+                    <button onClick={() => {Save(studentName)}} id='save-file'>Скачать</button>
                 </section>
                 <section id='result'>
                     <Titulnik 

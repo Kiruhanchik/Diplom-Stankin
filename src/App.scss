@@ -29,11 +29,12 @@
         }
     }
     main {
+        border: 3px solid black;
         background-color: white;
         height: 100%;
         width: 100vw;
-        border-top-right-radius: 20px;
-        border-top-left-radius: 20px;
+        border-top-right-radius: 30px;
+        border-top-left-radius: 30px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -79,6 +80,7 @@
             &:hover {
                 background-color: maroon;
                 color: white;
+                transform: scale(0.99);
             }
         }
     }
