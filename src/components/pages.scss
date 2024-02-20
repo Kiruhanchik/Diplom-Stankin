@@ -15,19 +15,23 @@
         box-shadow: 3px 3px 7px grey;
         height: 250px;
         transition: 0.3s;
-        &:hover {
-            transform: scale(1.1);
-            box-shadow: 4px 4px 8px grey;
-        }
         img {
             width: 400px;
             height: 200px;
+            filter: grayscale(100%);
+            transition: 0.3s;
         }
         p {
             font-size: 135%;
             font-weight: 600;
             margin: 0;
             color: black;
+        }
+        &:hover {
+            box-shadow: 5px 5px 9px grey;
+            img {
+                filter: grayscale(0%);
+            }
         }
     }
 }
