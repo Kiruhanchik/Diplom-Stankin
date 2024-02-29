@@ -19,7 +19,7 @@ export default function Advises() {
       return data.map((advise) => {
         return (
             <div key={advise.id} id='advise'>
-                <li>{advise.text} <a href={advise.link}>{advise.link_name}</a></li>
+                <li>{advise.text} <a href={advise.link} target="_blank">{advise.link_name}</a></li>
             </div>
         )
       })

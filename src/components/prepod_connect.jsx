@@ -20,7 +20,7 @@ export default function PrepodConnect() {
                     <div id='bio'>
                         <p id='prepod-name'>{prepod.name}</p>
                         <p id='prepod-mail'>{prepod.mail}</p>
-                        <button onClick={() => setActive(true)}>Написать</button>
+                        <button onClick={() => setActive(true)}>Подробнее</button>
                     </div>
                 </div>
             )
