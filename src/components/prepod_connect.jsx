@@ -11,6 +11,7 @@ import Dark_theme from '../components/dark_theme.jsx'
 export default function PrepodConnect() {
 
     const [active, setActive] = useState(false);
+    const [prepod, setPrepod] = useState({});
  
     const prepods = () => {
         return data.map((prepod) => {
@@ -20,7 +21,7 @@ export default function PrepodConnect() {
                     <div id='bio'>
                         <p id='prepod-name'>{prepod.name}</p>
                         <p id='prepod-mail'>{prepod.mail}</p>
-                        <button onClick={() => setActive(true)}>Подробнее</button>
+                        <button onClick={() => {setActive(true); setPrepod(prepod); console.log(prepod)}}>Подробнее</button>
                     </div>
                 </div>
             )
@@ -36,7 +37,7 @@ export default function PrepodConnect() {
     return (
         <animated.div id='prepod-Connect' style={animation}>
             <HomepageBtn/>
-            <PrepodPopup active={active} setActive={setActive} />  
+            <PrepodPopup active={active} setActive={setActive} prepod={prepod} setPrepod={setPrepod}/>  
             <Header title='Быстрая связь с преподавателями'/>
             <main>
                 <div id='prepods'>

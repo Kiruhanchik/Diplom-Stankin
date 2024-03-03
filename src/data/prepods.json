@@ -17,17 +17,17 @@
       {
         "id": 1,
         "name": "Числовое программное управление станками с динамически изменяющейся кинематикой // Автоматизация в промышленности, №5. 2020. с.12-17",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
       },
       {
         "id": 2,
         "name": "Особенности реализации и специфика применения функций многокоординатной обработки в системе ЧПУ «АксиОМА Контрол» // Автоматизация в промышленности, №5. 2017. с.17-22",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/17-22.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/17-22.pdf"
       },
       {
         "id": 3,
         "name": "Основы построения однокомпьютерной системы ЧПУ с программно реализованным ядром и открытой модульной архитектурой // Вестник МГТУ «Станкин». 2008. №4. C. 82–93",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
       }
     ]
   },
@@ -48,7 +48,7 @@
       {
         "id": 1,
         "name": "Организация взаимодействия основных компонентов в системе ЧПУ АксиОМА Контрол для интеграции в нее новых технологий и решений // Автоматизация в промышленности. 2015. №5. с.10-15",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
       }
     ]
   },
@@ -69,74 +69,74 @@
       {
         "id": 1,
         "name": "Исследование аппаратных платформ для построения доверенных систем управления технологическим оборудованием // Автоматизация в промышленности. 2023. № 12. С. 33-38",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
       },
       {
         "id": 2,
         "name": "Построение доверенной системы ЧПУ на базе управляющей платформы «АксиОМА Контрол» // СТИН. 2023. №9. с.33-37",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/17-22.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/17-22.pdf"
       },
       {
         "id": 3,
         "name": "Построение цифровой управляющей платформы для технологического оборудования с динамически изменяющейся кинематикой // Автоматизация в промышленности, №5. 2021. с.3-7",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2021/digitalcontrolplatform.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2021/digitalcontrolplatform.pdf"
       },
       {
         "id": 4,
         "name": "Числовое программное управление станками с динамически изменяющейся кинематикой // Автоматизация в промышленности, №5. 2020. с.12-17",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
       },
       {
         "id": 5,
         "name": "Особенности реализации и специфика применения функций многокоординатной обработки в системе ЧПУ «АксиОМА Контрол» // Автоматизация в промышленности, №5. 2017. с.17-22",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/17-22.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/17-22.pdf"
       },
       {
         "id": 6,
         "name": "Принципы построения распределенной системы ЧПУ технологическими машинами с использованием открытой модульной архитектуры // Справочник. Инженерный журнал. 2011, №12. c.44-50",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/sprav3.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/sprav3.pdf"
       },
       {
         "id": 7,
         "name": "Прикладные решения в области управления электроавтоматикой станков с ЧПУ класса PCNC // Промышленные АСУ и контроллеры, 2011. №4, С. 48-53",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/mnkp.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/mnkp.pdf"
       },
       {
         "id": 8,
         "name": "Принцип построения распределенной системы ЧПУ с открытой модульной архитектурой // Вестник МГТУ «Станкин», 2010. №4(12). С. 116-122",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/elibrary_15593619_20248544.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/elibrary_15593619_20248544.pdf"
       },
       {
         "id": 9,
         "name": "Принцип построения универсального интерпретатора языка программирования высокого уровня для систем ЧПУ // Мехатроника, автоматизация, управление. 2010. №6. C. 42-50",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2010/mau.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2010/mau.pdf"
       },
       {
         "id": 10,
         "name": "Основы построения однокомпьютерной системы ЧПУ с программно реализованным ядром и открытой модульной архитектурой // Вестник МГТУ «Станкин». 2008. №4. C. 82–93",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 11,
         "name": "Построение инструментария отладки управляющих программ систем ЧПУ на языках высокого уровня // Приборы и системы. Управление, контроль, диагностика. 2008. №11. C. 19-24",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2008/47355935.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2008/47355935.pdf"
       }
     ],
     "books": [
       {
         "id": 1,
         "name": "Системы числового программного управления для автоматизации технологических процессов машиностроительного комплекса России. Учебное пособие - М.: МГТУ «Станкин», 2011. - 169 с.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 2,
         "name": "Автоматизация технологических процессов в машиностроении. Учебное пособие - 2-е изд., перераб. и доп. - М.: МГТУ «Станкин», 2011. - 200 с.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 3,
         "name": "АВТОМАТИЗАЦИЯ ТЕХНОЛОГИЧЕСКИХ ПРОЦЕССОВ В МАШИНОСТРОЕНИИ. Часть – I. Числовое программное управление. Учебное пособие по подготовке специалистов с высшим профессиональным образованием для кадрового перевооружения машиностроительного комплекса России. М.: МГТУ СТАНКИН. 2010. 203 с.",
-        "link": ""
+        "reference": ""
       }
     ]
   },
@@ -177,22 +177,22 @@
       {
         "id": 1,
         "name": "Решение задачи резервирования в станках с числовым программным управлением // СТИН, №7. 2020. с.2-7.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
       },
       {
         "id": 2,
         "name": "Организация взаимодействия основных компонентов в системе ЧПУ АксиОМА Контрол для интеграции в нее новых технологий и решений // Автоматизация в промышленности. 2015. №5. с.10-15.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
       },
       {
         "id": 3,
         "name": "Специфика построения редактора управляющих программ электроавтоматики стандарта МЭК 61131 // Вестник МГТУ Станкин. 2014. № 4 (31). С. 127-132",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 4,
         "name": "Разработка средств визуализации и отладки управляющих программ для электроавтоматики, интегрированных в систему ЧПУ // Вестник МГТУ «Станкин», №4(23), 2012, с. 134-138.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/VESTNIK_N4_22_pp87-92.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/VESTNIK_N4_22_pp87-92.pdf"
       }
     ]
   },
@@ -211,27 +211,27 @@
       {
         "id": 1,
         "name": "Исследование аппаратных платформ для построения доверенных систем управления технологическим оборудованием // Автоматизация в промышленности. 2023. № 12. С. 33-38.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 2,
         "name": "Построение доверенной системы ЧПУ на базе управляющей платформы «АксиОМА Контрол» // СТИН. 2023. №9. с.33-37.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 3,
         "name": "Числовое программное управление станками с динамически изменяющейся кинематикой // Автоматизация в промышленности, №5. 2020. с.12-17.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
       },
       {
         "id": 4,
         "name": "Разработка и применение специализированного инструментария диагностики и настройки следящих приводов в гетерогенных системах управления промышленным оборудованием // Автоматизация в промышленности, №5.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/gmsk.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2017/gmsk.pdf"
       },
       {
         "id": 5,
         "name": " Способ построения инструментария систем мониторинга и настройки параметров мехатронного технологического оборудования на основе специализированных программных средств // Мехатроника, автоматизация, управление. 2012, №7. с.45-50",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mns.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mns.pdf"
       }
     ]
   },
@@ -252,17 +252,17 @@
       {
         "id": 1,
         "name": "Подход к построению кроссплатформенного автономного контроллера автоматизации на базе синтеза его отдельных модулей // Автоматизация в промышленности, №5. 2018. с.61-64",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2018/mgk.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2018/mgk.pdf"
       },
       {
         "id": 2,
         "name": "Построение специализированной распределенной системы управления прецизионным обрабатывающим центром VMG 50 // Автоматизация в промышленности. 2014. №6. с.16-20.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mkak.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mkak.pdf"
       },
       {
         "id": 3,
         "name": "Подход к построению мультипротокольной системы ЧПУ // Автоматизация в промышленности. 2012. №5. с.8-11.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/08-11.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/08-11.pdf"
       }
     ]
   },
@@ -279,7 +279,7 @@
       {
         "id": 1,
         "name": "Повышение надежности программного обеспечения систем управления посредством автоматизации процесса тестирования // Приборы и системы. Управление, контроль, диагностика. 2009. №11. C.23-28.",
-        "link": ""
+        "reference": ""
       }
     ]
   },
@@ -324,7 +324,7 @@
       {
         "id": 1,
         "name": "Удаленное управление сервоприводами CAN и мониторинг их работы на основе микрокомпьютеров ARM и с использованием протокола OPC UA // Автоматизация в промышленности, №10. 2019. с.9-12",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/udalennoe_upravlenie.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/udalennoe_upravlenie.pdf"
       }
     ]
   },
@@ -381,72 +381,72 @@
       {
         "id": 1,
         "name": " Подход к реализации аппаратно-независимого управления электроавтоматикой токарных и токарно-фрезерных станков с ЧПУ // Авиационная техника. 2016. №2. с.128-131.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2016/mnk.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2016/mnk.pdf"
       },
       {
         "id": 2,
         "name": " Специфика построения редактора управляющих программ электроавтоматики стандарта МЭК 61131 // Вестник МГТУ Станкин. 2014. № 4 (31). С. 127-132",
-        "link": "http://www.stankin-journal.ru/ru/articles/1113"
+        "reference": "http://www.stankin-journal.ru/ru/articles/1113"
       },
       {
         "id": 3,
         "name": "Модульный подход к построению специализированной системы ЧПУ для обрабатывающих центров наклонной компоновки // СТИН, 2014. №11. с.28-32",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/manestin.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/manestin.pdf"
       },
       {
         "id": 4,
         "name": "Новый подход к построению программно реализованного контроллера электроавтоматики технологического оборудования с ЧПУ // Известия Юго-Западного государственного университета. 2013. № 3 (48). С. 156-166.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/77374703.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/77374703.pdf"
       },
       {
         "id": 5,
         "name": "Принципы построения кроссплатформенного программно-реализованного контроллера электроавтоматики систем ЧПУ высокотехнологичными производственными комплексами // Вестник МГТУ «Станкин», №1(24), 2013, с. 42-51.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/art2013_m.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/art2013_m.pdf"
       },
       {
         "id": 6,
         "name": "Метод декомпозиции и синтеза современных систем с ЧПУ // Автоматизация в промышленности. 2013. № 5. С. 9-15.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/9-15.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/9-15.pdf"
       },
       {
         "id": 7,
         "name": "Кроссплатформенный программно-реализованный логический контроллер управления электроавтоматикой станков с ЧПУ // Автоматизация и современные технологии. 2013. № 1. С. 15-23.",
-        "link": "https://www.mashin.ru/eshop/journals/avtomatizaciya_i_sovremennye_tehnologii/"
+        "reference": "https://www.mashin.ru/eshop/journals/avtomatizaciya_i_sovremennye_tehnologii/"
       },
       {
         "id": 8,
         "name": "Разработка средств визуализации и отладки управляющих программ для электроавтоматики, интегрированных в систему ЧПУ // Вестник МГТУ «Станкин», №4(23), 2012, с. 134-138.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/VESTNIK_N4_22_pp87-92.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/VESTNIK_N4_22_pp87-92.pdf"
       },
       {
         "id": 9,
         "name": "Способ построения инструментария систем мониторинга и настройки параметров мехатронного технологического оборудования на основе специализированных программных средств // Мехатроника, автоматизация, управление.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mns.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mns.pdf"
       },
       {
         "id": 10,
         "name": "Принципы построения распределенной системы ЧПУ технологическими машинами с использованием открытой модульной архитектуры // Справочник. Инженерный журнал. 2011, №12. c.44-50.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/sprav3.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/sprav3.pdf"
       },
       {
         "id": 11,
         "name": "Организация распределенного управления станком гидроабразивной резки с ЧПУ // Мехатроника, автоматизация, управление. 2011, №11. с. 35-39",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/Binder2.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/Binder2.pdf"
       },
       {
         "id": 12,
         "name": "Прикладные решения в области управления электроавтоматикой станков с ЧПУ класса PCNC // Промышленные АСУ и контроллеры, 2011. №4, С. 48-53",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/mnkp.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/mnkp.pdf"
       },
       {
         "id": 13,
         "name": "Принцип построения распределенной системы ЧПУ с открытой модульной архитектурой // Вестник МГТУ «Станкин», 2010. №4(12). С. 116-122.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/elibrary_15593619_20248544.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/elibrary_15593619_20248544.pdf"
       },
       {
         "id": 14,
         "name": "Специфика построения панелей управления систем ЧПУ по типу универсальных программно-аппаратных компонентов // Автоматизация и современные технологии. 2010. №7. C. 34-40",
-        "link": "https://www.mashin.ru/jurnal/archiv.php/?id=2&njro=201007&yy=2010&PHPSESSID=82591cb427045ba2c312908da40668aa"
+        "reference": "https://www.mashin.ru/jurnal/archiv.php/?id=2&njro=201007&yy=2010&PHPSESSID=82591cb427045ba2c312908da40668aa"
       }
     ]
   },
@@ -483,544 +483,544 @@
       {
         "id": 1,
         "name": "Исследование аппаратных платформ для построения доверенных систем управления технологическим оборудованием // Автоматизация в промышленности. 2023. № 12. С. 33-38",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 2,
         "name": "Построение доверенной системы ЧПУ на базе управляющей платформы «АксиОМА Контрол» // СТИН. 2023. №9. с.33-37.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 3,
         "name": "Управляющая платформа «АксиОМА Контрол» для построения специализированных систем ЧПУ: актуальное состояние и перспективы развития // Автоматизация в промышленности. 2023. № 1. С. 21-24",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2023/martinovaLI_martinovGM.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2023/martinovaLI_martinovGM.pdf"
       },
       {
         "id": 4,
         "name": "Специфика реализации исторических данных в OPC UA сервере для системы ЧПУ // Автоматизация в промышленности. 2022. № 5. С. 11-13",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2022/Martinov_Zaharov_AVT22.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2022/Martinov_Zaharov_AVT22.pdf"
       },
       {
         "id": 5,
         "name": "Построение цифровой управляющей платформы для технологического оборудования с динамически изменяющейся кинематикой // Автоматизация в промышленности, №5. 2021. с.3-7",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2021/digitalcontrolplatform.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2021/digitalcontrolplatform.pdf"
       },
       {
         "id": 6,
         "name": "Числовое программное управление станками с динамически изменяющейся кинематикой // Автоматизация в промышленности, №5. 2020. с.12-17.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
       },
       {
         "id": 7,
         "name": "Решение задачи резервирования в станках с числовым программным управлением // СТИН, №7. 2020. с.2-7.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/princip_rezerv.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/princip_rezerv.pdf"
       },
       {
         "id": 8,
         "name": "Удаленное управление сервоприводами CAN и мониторинг их работы на основе микрокомпьютеров ARM и с использованием протокола OPC UA // Автоматизация в промышленности, №10. 2019. с.9-12",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/udalennoe_upravlenie.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/udalennoe_upravlenie.pdf"
       },
       {
         "id": 9,
         "name": "Цифровые производственные технологии согласно концепции Industry 4.0 // Автоматизация в промышленности, №5. 2019. с.3-5",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/avt_martinov.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/avt_martinov.pdf"
       },
       {
         "id": 10,
         "name": "Мировые тренды, возможности и перспективы развития систем ЧПУ станочного оборудования // СТИН, №7. 2019. с.28-31.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/9_m.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/9_m.pdf"
       },
       {
         "id": 11,
         "name": "Подход к построению кроссплатформенного автономного контроллера автоматизации на базе синтеза его отдельных модулей // Автоматизация в промышленности, №5. 2018. с.61-64",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2018/mgk.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2018/mgk.pdf"
       },
       {
         "id": 12,
         "name": "Система ЧПУ: современные вызовы, информационная и технологическая безопасность // Автоматизация в промышленности, №5. 2016. с.3-5.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2016/mg.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2016/mg.pdf"
       },
       {
         "id": 13,
         "name": "Реализация управления электроавтоматикой строгально-фрезерного обрабатывающего центра на основе инструментария программно-реализованного контроллера «АксиОМА Контрол» // Автоматизация в промышленности. 2015. №5. с.34-38.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/34-38avt52015.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/34-38avt52015.pdf"
       },
       {
         "id": 14,
         "name": "Организация взаимодействия основных компонентов в системе ЧПУ АксиОМА Контрол для интеграции в нее новых технологий и решений // Автоматизация в промышленности. 2015. №5. с.10-15.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
       },
       {
         "id": 15,
         "name": "Методы и инструментальные средства многоуровневой подготовки специалистов в области цифрового машиностроительного производства // Автоматизация в промышленности. 2015. №5. с.4-8.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/gmavt52015.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/gmavt52015.pdf"
       },
       {
         "id": 16,
         "name": "Специфика построения редактора управляющих программ электроавтоматики стандарта МЭК 61131 // Вестник МГТУ Станкин. 2014. № 4 (31). С. 127-132",
-        "link": "http://www.stankin-journal.ru/ru/articles/1113"
+        "reference": "http://www.stankin-journal.ru/ru/articles/1113"
       },
       {
         "id": 17,
         "name": "Модульный подход к построению специализированной системы ЧПУ для обрабатывающих центров наклонной компоновки // СТИН, 2014. №11. с.28-32",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/manestin.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/manestin.pdf"
       },
       {
         "id": 18,
         "name": "Формирование базовой вычислительной платформы ЧПУ для построения специализированных систем управления // Вестник МГТУ «Станкин», №1(24), 2014, с. 92-97.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/21450173.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/21450173.pdf"
       },
       {
         "id": 19,
         "name": "Построение специализированной распределенной системы управления прецизионным обрабатывающим центром VMG 50 // Автоматизация в промышленности. 2014. №6. с.16-20.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mkak.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mkak.pdf"
       },
       {
         "id": 20,
         "name": "Настройка и диагностика металлорежущих станков с использованием Web-технологий // Автоматизация в промышленности. 2014. №6. с.3-7.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/grigmart.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/grigmart.pdf"
       },
       {
         "id": 21,
         "name": "Новый подход к построению программно реализованного контроллера электроавтоматики технологического оборудования с ЧПУ // Известия Юго-Западного государственного университета. 2013. № 3 (48). С. 156-166.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/77374703.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/77374703.pdf"
       },
       {
         "id": 22,
         "name": "Принципы построения кроссплатформенного программно-реализованного контроллера электроавтоматики систем ЧПУ высокотехнологичными производственными комплексами // Вестник МГТУ «Станкин», №1(24), 2013, с. 42-51.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/art2013_m.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/art2013_m.pdf"
       },
       {
         "id": 23,
         "name": "Метод декомпозиции и синтеза современных систем с ЧПУ // Автоматизация в промышленности. 2013. № 5. С. 9-15.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/9-15.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/9-15.pdf"
       },
       {
         "id": 24,
         "name": "Проблемы, тенденции и перспективы развития систем числового программного управления технологических систем и комплексов // Автоматизация в промышленности. 2013. № 5. С. 4-7.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/02-05.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/02-05.pdf"
       },
       {
         "id": 25,
         "name": "Кроссплатформенный программно-реализованный логический контроллер управления электроавтоматикой станков с ЧПУ // Автоматизация и современные технологии. 2013. № 1. С. 15-23.",
-        "link": "https://www.mashin.ru/eshop/journals/avtomatizaciya_i_sovremennye_tehnologii/"
+        "reference": "https://www.mashin.ru/eshop/journals/avtomatizaciya_i_sovremennye_tehnologii/"
       },
       {
         "id": 26,
         "name": "Разработка средств визуализации и отладки управляющих программ для электроавтоматики, интегрированных в систему ЧПУ // Вестник МГТУ «Станкин», №4(23), 2012, с. 134-138.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/VESTNIK_N4_22_pp87-92.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/VESTNIK_N4_22_pp87-92.pdf"
       },
       {
         "id": 27,
         "name": "Диагностирование режущих инструментов и прогнозирование их остаточной стойкости на станках с ЧПУ в процессе обработки // СТИН. 2012. №12. С.23-27",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 28,
         "name": "Управление и диагностика цифровых приводов станков с ЧПУ // Контроль. Диагностика. 2012. №12. С. 54-60.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/martinov.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/martinov.pdf"
       },
       {
         "id": 29,
         "name": "Практические аспекты реализации сплайн-контуров в системах ЧПУ класса PCNC // Информационные технологии в проектировании и производстве. 2012. №3. с. 58-62.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 30,
         "name": "Способ построения инструментария систем мониторинга и настройки параметров мехатронного технологического оборудования на основе специализированных программных средств // Мехатроника, автоматизация, управление. 2012, №7. с.45-50",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mns.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mns.pdf"
       },
       {
         "id": 31,
         "name": "Подход к построению мультипротокольной системы ЧПУ // Автоматизация в промышленности. 2012. №5. с.8-11.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/08-11.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/08-11.pdf"
       },
       {
         "id": 32,
         "name": "Принципы построения распределенной системы ЧПУ технологическими машинами с использованием открытой модульной архитектуры // Справочник. Инженерный журнал. 2011, №12. c.44-50.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/sprav3.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/sprav3.pdf"
       },
       {
         "id": 33,
         "name": "Современные тенденции развития компьютерных систем ЧПУ // Мир техники и технологий. Харьков, 2011, №4. с. 26-29.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 34,
         "name": "Концепция построения базовой системы числового программного управления мехатронными объектами // Информационные технологии в проектировании и производстве, 2011. №2, с.21-27.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/IIT.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/IIT.pdf"
       },
       {
         "id": 35,
         "name": "Перспективы развития кроссплатформенных компьютерных систем числового программного управления высокотехнологичного оборудования // Автоматизация в промышленности, 2011. №5, с. 3-8.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/03-8.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/03-8.pdf"
       },
       {
         "id": 36,
         "name": "Прикладные решения в области управления электроавтоматикой станков с ЧПУ класса PCNC // Промышленные АСУ и контроллеры, 2011. №4, С. 48-53",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/mnkp.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/mnkp.pdf"
       },
       {
         "id": 37,
         "name": "Принцип построения распределенной системы ЧПУ с открытой модульной архитектурой // Вестник МГТУ «Станкин», 2010. №4(12). С. 116-122.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/elibrary_15593619_20248544.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2011/elibrary_15593619_20248544.pdf"
       },
       {
         "id": 38,
         "name": "Организация межмодульного взаимодействия в распределенных системах ЧПУ. Модели и алгоритмы реализации // Мехатроника, автоматизация, управление. 2010. №11. C. 50-55.",
-        "link": "http://novtex.ru/mech/mech2010/annot11.html#10"
+        "reference": "http://novtex.ru/mech/mech2010/annot11.html#10"
       },
       {
         "id": 39,
         "name": "Специфика построения панелей управления систем ЧПУ по типу универсальных программно-аппаратных компонентов // Автоматизация и современные технологии. 2010. №7. C. 34-40",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 40,
         "name": "Принцип построения универсального интерпретатора языка программирования высокого уровня для систем ЧПУ // Мехатроника, автоматизация, управление. 2010. №6. C. 42-50.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2010/mau.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2010/mau.pdf"
       },
       {
         "id": 41,
         "name": "Современные тенденции развития систем ЧПУ // Стружка. 2009,2010. №1-2 (26-27). C. 38–45.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 42,
         "name": "Перспективы развития распределенных гетерогенных систем ЧПУ децентрализованными производствами // Автоматизация в промышленности. 2010. №5. C. 4-8.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 43,
         "name": "Повышение надежности программного обеспечения систем управления посредством автоматизации процесса тестирования // Приборы и системы. Управление, контроль, диагностика. 2009. №11. C.23-28.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 44,
         "name": "Принцип построения и интеграции в системах ЧПУ класса PCNC подсистемы трехмерной визуализации управляющих программ // Мехатроника, автоматизация, управление. 2009. №9. C. 26-31.",
-        "link": "http://www.novtex.ru/mech/mech09/annot09.html#5"
+        "reference": "http://www.novtex.ru/mech/mech09/annot09.html#5"
       },
       {
         "id": 45,
         "name": "Специфика разработки программного обеспечения для систем управления технологическим оборудованием в реальном времени // Спецвыпуск T-Comm, июль 2009. C.121-124.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 46,
         "name": "Развитие систем управления технологическими объектами и процессами // Мир техники и технологий. – 2009. – № 6. – С. 34-35.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 47,
         "name": "Расширение функциональных возможностей системы ЧПУ для управления установкой электронно-лучевой сварки // Авиационная промышленность. 2009. №1. C. 16-21.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 48,
         "name": "Проблема адаптации систем ЧПУ класса PCNC к станкам лазерной графики // Мехатроника, автоматизация, управление. 2009. №1. C. 59-62.",
-        "link": "http://www.novtex.ru/mech/mech09/annot01.htm#11"
+        "reference": "http://www.novtex.ru/mech/mech09/annot01.htm#11"
       },
       {
         "id": 49,
         "name": "Системы ЧПУ, представленные на Международной выставке «Металлообработка 2008», их новизна и особенности // Стружка. 2008. №3. C. 38–40, 43.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 50,
         "name": "Основы построения однокомпьютерной системы ЧПУ с программно реализованным ядром и открытой модульной архитектурой // Вестник МГТУ «Станкин». 2008. №4. C. 82–93.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 51,
         "name": "Задача самодиагностики системы управления сборочным станком // Стружка. 2008. №1. C. 54-57.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 52,
         "name": "Университетская система ЧПУ WinPCNC для обучения и производства // Стружка. 2008. №1. C. 29-30.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2008/5.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2008/5.pdf"
       },
       {
         "id": 53,
         "name": "Развитие систем управления технологическими объектами и процессами // Вестник МГТУ «Станкин». 2008. №1. C. 74–79.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2008/21.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2008/21.pdf"
       },
       {
         "id": 54,
         "name": "Программируемые контроллеры автоматизации PAC (Programmable Automation Controller). Эволюция, проблемы, тенденции развития // Стружка. 2007. №4. C. 22–25.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2007/25.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2007/25.pdf"
       },
       {
         "id": 55,
         "name": "Алгоритм опережающего просмотра Look-ahead в современных системах ЧПУ и параметры его настройки // Стружка. 2007. №3. C. 52–54",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2007/6.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2007/6.pdf"
       },
       {
         "id": 56,
         "name": "Академическая версия системы ЧПУ WinPCNC // Инструмент, технология, оборудование. №8. 2007. C. 62-64.",
-        "link": "http://www.ito-news.ru/archive/2007/0708.html"
+        "reference": "http://www.ito-news.ru/archive/2007/0708.html"
       },
       {
         "id": 57,
         "name": "Разработка пользовательских токарных циклов в системе ЧПУ WinPCNC // Объединенный научный журнал. 2007. №6. C. 8–50.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 58,
         "name": "Сплайн-контуры в системе ЧПУ // Стружка. 2007. №1. C. 74–77.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2007/7.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2007/7.pdf"
       },
       {
         "id": 59,
         "name": "Мультиагентная модель открытой системы ЧПУ типа PCNC // Автоматизация в промышленности. 2007. №5. C. 3–6.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/01.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/01.pdf"
       },
       {
         "id": 60,
         "name": "Модели математического обеспечения открытых систем ЧПУ // Стружка. 2006. №4. C. 26–30.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2006/14.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2006/14.pdf"
       },
       {
         "id": 61,
         "name": "Декомпозиция и синтез программных компонентов электроавтоматики // Приборы и системы. Управление, контроль, диагностика. 2006. №12. C. 4-11.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2006/3.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2006/3.pdf"
       },
       {
         "id": 62,
         "name": "Тенденции развития архитектуры и математического обеспечения систем ЧПУ // Стружка. 2006. №3. C. 30, 32–36.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2006/24.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2006/24.pdf"
       },
       {
         "id": 63,
         "name": "Проблемы использования сплайновой интерполяции в системах ЧПУ при обработке скульптурных поверхностей // Автоматизация в промышленности. 2006. №11. C. 3–9.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 64,
         "name": "Перспективные технологии разработки математического обеспечения систем управления: использование регулярных выражений // Мехатроника, автоматизация, управление. 2006. №2. C. 40-46.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 65,
         "name": "Архитектоника цифровых следящих приводов подач технологических машин // Мехатроника, автоматизация, управление. 2005. №10. C. 24-30.",
-        "link": "http://www.novtex.ru/mech/mech2005/annot10.htm#5"
+        "reference": "http://www.novtex.ru/mech/mech2005/annot10.htm#5"
       },
       {
         "id": 66,
         "name": "Методика разработки управляющей программы ЧПУ соответственно стандарту ISO 14649 STEP-NC (Standard for the Exchange of Product model data for NC) // Мехатроника, автоматизация, управление. 2005. №6. C. 45-52.",
-        "link": "http://www.novtex.ru/mech/mech2005/annot06.htm#9"
+        "reference": "http://www.novtex.ru/mech/mech2005/annot06.htm#9"
       },
       {
         "id": 67,
         "name": "Новейшие тенденции в области архитектурных решений систем ЧПУ // Автоматизация в промышленности. 2005. №4. C. 3–9.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2005/16.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2005/16.pdf"
       },
       {
         "id": 68,
         "name": "Формализация данных STEP-NC-формата: фаза построения UML-модели // Мехатроника, автоматизация, управление. 2005. №1. C. 49-56.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2005/20.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2005/20.pdf"
       },
       {
         "id": 69,
         "name": "Понятийный аппарат комплекса производственных стандартов для числового программного управления оборудованием, - ISO 14649 STEP-NC (Standard for the Exchange of Product model data for NC) //Мехатроника, автоматизация, управление. 2004. №8. C. 37-44.",
-        "link": "http://www.novtex.ru/mech/arch2004_08.htm"
+        "reference": "http://www.novtex.ru/mech/arch2004_08.htm"
       },
       {
         "id": 70,
         "name": "Анализ современного мирового уровня архитектурных решений в области систем ЧПУ // Автоматизация в промышленности. 2004. №5. C. 33–39.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 71,
         "name": "Принципы построения удаленных терминалов ЧПУ для мехатронных систем // Автотракторное электрооборудование. 2004. №1-2. С. 29-32.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 72,
         "name": "Концепция числового программного управления мехатронными системами: интеграция на основе открытого управления и стандарта OPC //Мехатроника, автоматизация, управление. 2003. №8. C. 12-18.",
-        "link": "http://www.novtex.ru/mech/arch2003_08.htm"
+        "reference": "http://www.novtex.ru/mech/arch2003_08.htm"
       },
       {
         "id": 73,
         "name": "Концепция числового программного управления мехатронными системами: yправление электроавтоматикой станков с ЧПУ по типу виртуальных контроллеров SoftPLC // Приборы и системы. Управление, контроль, диагностика. 2003. №7. С. 5-10.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2003/9.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2003/9.pdf"
       },
       {
         "id": 74,
         "name": "Концепция числового программного управления мехатронными системами: интеграция на основе комплекса производственных стандартов STEP (Standard for the Exchange of Product model data) Информационные технологии в проектировании и производстве. - М.: ВИМИ 2003. №2. С. 38-44.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2003/22.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2003/22.pdf"
       },
       {
         "id": 75,
         "name": "Концепция числового программного управления мехатронными системами: технология компонентной организации программного обеспечения // Автотракторное электрооборудование. 2002. №5-6. C. 37-44.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2002/4.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2002/4.pdf"
       },
       {
         "id": 76,
         "name": "Концепция числового программного управления мехатронными системами: анализ современного мирового уровня архитектурных решений в области ЧПУ // Мехатроника, автоматизация, управление. 2002. №7. C. 11-17.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 76,
         "name": "Концепция числового программного управления мехатронными системами: проблемы управления электроавтоматикой // Автотракторное электрооборудование, 2002. №4. C. 33-42.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2002/2.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2002/2.pdf"
       },
       {
         "id": 77,
         "name": "Практические аспекты реализации модулей открытой системы ЧПУ // Автотракторное электрооборудование, 2002. №3. C. 31-37.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2002/1.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2002/1.pdf"
       },
       {
         "id": 78,
         "name": "Концепция числового программного управления мехатронными системами: конфигурация систем ЧПУ // Мехатроника, автоматизация, управление. 2002. №4. C. 22-24.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 79,
         "name": "Концепция числового программного управления мехатронными системами: методологические аспекты построения открытых систем ЧПУ // Мехатроника, автоматизация, управление. 2002. №2. C. 2-11.",
-        "link": "Концепция числового программного управления мехатронными системами: специфика объектно-ориентированного программирования // Мехатроника, автоматизация, управление. 2002. №1. C. 30-32."
+        "reference": "Концепция числового программного управления мехатронными системами: специфика объектно-ориентированного программирования // Мехатроника, автоматизация, управление. 2002. №1. C. 30-32."
       },
       {
         "id": 80,
         "name": "Концепция числового программного управления мехатронными системами: структура руководства по программированию // Мехатроника, автоматизация, управление. 2001. №8. C. 20-27.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 81,
         "name": "Концепция числового программного управления мехатронными системами: технология объектно-ориентированного программирования // Мехатроника, автоматизация, управление. 2001. №7. C. 5-9.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 82,
         "name": "Концепция числового программного управления мехатронными системами: реализация диагностической задачи управления // Мехатроника, автоматизация, управление. 2001. №3. C. 2-6.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 83,
         "name": "Концепция числового программного управления мехатронными системами: реализация терминальной задачи // Мехатроника, автоматизация, управление. 2001. №4. C. 2-8.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 84,
         "name": "Концепция числового программного управления мехатронными системами: реализация логической задачи управления // Мехатроника, автоматизация, управление. 2001. №2. C. 3-7.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2001/12.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2001/12.pdf"
       },
       {
         "id": 85,
         "name": "Концепция числового программного управления мехатронными системами: реализация геометрической задачи // Мехатроника, автоматизация, управление. 2001. №1. C. 9-15.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 86,
         "name": "«AdvancEd» - универсальная среда для редактирования, отладки и моделирования программ ЧПУ в коде ISO-7bit (любой версии) // Автотракторное электрооборудование. 2001. №1-2 . С. 41-42.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2001/sm_advanced.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2001/sm_advanced.pdf"
       },
       {
         "id": 87,
         "name": "Концепция числового программного управления мехатронными системами: построение межмодульной коммуникационной среды // Мехатроника, автоматизация, управление. 2000. №6. С. 2-7.",
-        "link": "http://novtex.ru/mech/arch2000.htm"
+        "reference": "http://novtex.ru/mech/arch2000.htm"
       },
       {
         "id": 88,
         "name": "Концепция  числового программного управления мехатронными системами: проблема реального времени // Мехатроника, автоматизация, управление. 2000. №3. С. 37-40.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 89,
         "name": "Концепция числового программного управления мехатронными системами: архитектура систем типа PCNC // Мехатроника, автоматизация, управление. 2000. №1. С. 26-29.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2000/8.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2000/8.pdf"
       },
       {
         "id": 90,
         "name": "Новый подход к построению редакторов управляющих программ: Универсальная среда AdvancEd. Информационные технологии в проектировании и производстве. - М.: ВИМИ 1999. №1. С. 80-87.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1999/17.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1999/17.pdf"
       },
       {
         "id": 91,
         "name": "Концепция однокомпьютерной системы ЧПУ типа PCNC. Информатика-машиностроение, 1999. №4. С. 7-16.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 92,
         "name": "Универсальная среда «AdvancEd» для редактирования, отладки и моделирования программ ЧПУ в коде ISO-7bit (любой версии) // Информатика технологии, 1998. №3 (21). С. 3-5.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/15.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/15.pdf"
       },
       {
         "id": 93,
         "name": "Виртуальные приборы диагностики в системе ЧПУ // Информатика-машиностроение. 1998. №4. С. 8-12.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/28.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/28.pdf"
       },
       {
         "id": 94,
         "name": "Современное представление об архитектуре систем ЧПУ типа PCNC // Автоматизация проектирования. 1998. №3. С. 35-39.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/13.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/13.pdf"
       },
       {
         "id": 95,
         "name": "Интерпретация диалога в windows-интерфейсе систем управления // Приборы и системы управления. 1998. №12. С. 10-13.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/29.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/29.pdf"
       },
       {
         "id": 96,
         "name": "Построение персональных систем ЧПУ (PCNC) по типу открытых систем управления // Информационные технологии и вычислительные системы. 1997. №3. С. 68-76.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 97,
         "name": "Концепция системы ЧПУ типа PCNC с открытой архитектурой // СТИН. 1998. №5. С. 7-12.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/26.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1998/26.pdf"
       },
       {
         "id": 98,
         "name": "Открытая система ЧПУ на базе общей магистрали // Автомобильная промышленность. 1997. №4. С. 31-34.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1997/19.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1997/19.pdf"
       },
       {
         "id": 99,
         "name": "Принципы построения систем ЧПУ с открытой архитектурой // Приборы и системы управления. 1996. №8. С. 18-21.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1996/10.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1996/10.pdf"
       },
       {
         "id": 100,
         "name": "Сосонкин В.Л., Мартинов Г.М.Концепция геометрического ISO-процессора для систем ЧПУ // СТИН. 1994. №7. С. 12-20.",
-        "link": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1994/18.pdf"
+        "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/1994/18.pdf"
       }
     ],
     "books": [
       {
         "id": 1,
         "name": "Современные машиностроительные технологии производства. - М.:МГТУ «Станкин», 2011. - 159 с.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 2,
         "name": "Системы числового программного управления для автоматизации технологических процессов машиностроительного комплекса России. Учебное пособие - М.: МГТУ «Станкин», 2011. - 169 с.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 3,
         "name": "Автоматизация технологических процессов в машиностроении. Учебное пособие - 2-е изд., перераб. и доп. - М.: МГТУ «Станкин», 2011. - 200 с.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 4,
         "name": "Диагностика автоматизированного производства. - М.: Машиностроение, 2011. - 600с.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 5,
         "name": "АВТОМАТИЗАЦИЯ ТЕХНОЛОГИЧЕСКИХ ПРОЦЕССОВ В МАШИНОСТРОЕНИИ. Часть – I. Числовое программное управление. Учебное пособие по подготовке специалистов с высшим профессиональным образованием для кадрового перевооружения машиностроительного комплекса России. М.: МГТУ СТАНКИН. 2010. 203 с.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 6,
         "name": "Программирование систем числового программного управления: Учеб. пособие. – М. Логос, 2008. – 344 с. + компакт-диск. ISBN 978-5-98704-296-8.",
-        "link": ""
+        "reference": ""
       },
       {
         "id": 7,
         "name": "Системы числового программного управления: Учеб. пособие. – М. Логос, 2005. – 296 с. ISBN 5-98704-012-4.",
-        "link": ""
+        "reference": ""
       }
     ]
   }
