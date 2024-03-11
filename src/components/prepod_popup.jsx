@@ -1,9 +1,26 @@
 import React from 'react'
 import './prepod_popup.scss';
 import { useState } from 'react';
-import data from '../data/prepods.json';
 
 export default function PrepodPopup({active, setActive, prepod, setPrepod}) {
+
+    const disciplines = () => {
+        let data = prepod.disciplines;
+        if (data) {
+            return data?.map((discipline) => {
+                return (
+                    <li>{discipline}</li>
+                )
+            })
+        } 
+        return (
+            <>Отсутствуют</>
+        )
+    }
+
+    const publications = () => {
+        let data = prepod.publications;
+    }
 
     return (
         <div className={active ? 'popup active' : 'popup'}>
@@ -14,9 +31,11 @@ export default function PrepodPopup({active, setActive, prepod, setPrepod}) {
                     </svg>
                 </div>
                 <img width={100} src={prepod.photo} alt={prepod.name} />
+                <p>Дисциплины преподавателя</p>
                 <ul>
-                    {prepod.disciplines}
+                    {disciplines()}
                 </ul>
+                <p>Публикации преподавателя</p>
             </div>
         </div>
     )
