@@ -27,7 +27,7 @@ function App() {
         <h2>Выберите сервис</h2>
         <Link to='/titulnik'>Генерация титульного листа</Link>
         <Link to='/navigation'>Навигация по разделам вуза</Link>
-        <Link to='/connect'>Быстрая связь с преподавателями кафедры</Link>
+        <Link to='/connect'>Преподаватели кафедры КСУ</Link>
         <Link to='/advises'>Советы для студентов</Link>
         <Dark_theme/>
       </main>
