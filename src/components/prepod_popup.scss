@@ -15,11 +15,23 @@
         width: 50%;
         height: 500px;
         background-color: white;
-        border-radius: 20px;
+        border-radius: 10px;
         display: flex;
         flex-direction: column;
-        justify-content: center;
         align-items: center;
+        overflow: auto;
+        &::-webkit-scrollbar {
+            width: 11px;
+        }
+        &::-webkit-scrollbar-track {
+            background-color: rgb(235, 235, 235);
+            border-radius: 100px;
+        }
+        &::-webkit-scrollbar-thumb {
+            box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+            background-color: rgb(214, 10, 10);
+            border-radius: 100px;
+        }
         #close {
             margin-left: auto;
             margin-right: 2%;
@@ -33,55 +45,42 @@
                 }
             }
         }
-        label {
-            margin-top: 3%;
-            font-size: 120%;
-            font-weight: 600;
-            display: flex;
-            flex-direction: row;
-            width: 100%;
-            justify-content: center;
-            nav {
-                color: rgb(184, 8, 8);
-                margin-left: 1%;
+        img {
+            width: 20%;
+        }
+        p {
+            margin: 0;
+            padding: 0;
+        }
+        #disciplines {
+            margin: 0;
+            li {
+                margin: 0;
+                padding: 0;
+                margin-top: 2%;
+                &::marker {
+                    color: rgb(214, 10, 10);
+                }
             }
         }
-        input {
-            margin-top: 2%;
-            width: 30%;
-            height: 25px;
-            font-size: 90%;
-            border: 1.5px solid black;
-            border-radius: 6px;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            box-shadow: 3px 3px 3px rgb(136, 135, 135);
-            color: rgb(184, 8, 8);
-            font-weight: 600;
-        }
-        textarea {
-            margin-top: 2%;
-            font-size: 120%;
-            border: 1.5px solid black;
-            border-radius: 6px;
-            box-shadow: 3px 3px 3px rgb(136, 135, 135);
-            color: rgb(184, 8, 8);
-            font-weight: 600;
-        }
-        button {
-            margin-top: 5%;
-            margin-bottom: 6%;
-            width: 25%;
-            height: 30px;
-            background-color: white;
-            border: 1.5px solid black;
-            border-radius: 6px;
-            font-size: 100%;
-            transition: 0.3s;
-            cursor: pointer;
-            box-shadow: 3px 3px 3px rgb(136, 135, 135);
-            &:hover {
-                background-color: rgb(184, 8, 8);
-                color: white;
+        #publications {
+            margin: 0;
+            li {
+                margin: 0;
+                padding: 0;
+                margin-top: 2%;
+                &::marker {
+                    color: rgb(214, 10, 10);
+                }
+                a {
+                    font-weight: 500;
+                    text-decoration: none;
+                    color: black;
+                    transition: 0.3s;
+                    &:hover {
+                        color: rgb(180, 12, 12);
+                    }
+                }
             }
         }
     }

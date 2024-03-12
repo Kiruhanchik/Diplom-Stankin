@@ -1,6 +1,5 @@
 import React from 'react'
 import './prepod_popup.scss';
-import { useState } from 'react';
 
 export default function PrepodPopup({active, setActive, prepod, setPrepod}) {
 
@@ -14,12 +13,22 @@ export default function PrepodPopup({active, setActive, prepod, setPrepod}) {
             })
         } 
         return (
-            <>Отсутствуют</>
+            <li>Отсутствуют</li>
         )
     }
 
     const publications = () => {
         let data = prepod.publications;
+        if (data) {
+            return data?.map((publication) => {
+                return (
+                    <li className='publication'><a target='_blanc' href={publication.reference}>{publication.name}</a></li>
+                )
+            })
+        }
+        return (
+            <li>Отсутствуют</li>
+        )
     }
 
     return (
@@ -32,10 +41,9 @@ export default function PrepodPopup({active, setActive, prepod, setPrepod}) {
                 </div>
                 <img width={100} src={prepod.photo} alt={prepod.name} />
                 <p>Дисциплины преподавателя</p>
-                <ul>
-                    {disciplines()}
-                </ul>
+                <ul id='disciplines'>{disciplines()}</ul>
                 <p>Публикации преподавателя</p>
+                <ul id='publications'>{publications()}</ul>
             </div>
         </div>
     )
