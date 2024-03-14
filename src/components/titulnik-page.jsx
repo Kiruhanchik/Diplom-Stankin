@@ -36,7 +36,7 @@ export default function TitulnikPage() {
     return (
         <animated.div id='titulnik-page' style={animation}>
             <HomepageBtn/>
-            <Header title='Генератор титульника'/>
+            <Header title='Генератор титульного листа'/>
             <main>
                 <section id='params'>
                     <label htmlFor="student-name">Ваше ФИО (Иванов И.И.)</label>

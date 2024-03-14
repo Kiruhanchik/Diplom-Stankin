@@ -41,7 +41,7 @@ export default function PrepodConnect() {
         <animated.div id='prepod-Connect' style={animation}>
             <HomepageBtn/>
             <PrepodPopup active={active} setActive={setActive} prepod={prepod} setPrepod={setPrepod}/>  
-            <Header title='Быстрая связь с преподавателями'/>
+            <Header title='Преподаватели кафедры КСУ'/>
             <main>
                 <div id='prepods'>
                     {prepods()}
