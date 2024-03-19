@@ -4,7 +4,7 @@ import './advises.scss'
 import students from '../img/students.jpg';
 import { useSpring, animated } from 'react-spring'
 import Dark_theme from '../components/dark_theme.jsx'
-import data from '../data/advises.json'
+import advises from '../services/advises.services.js'
 import Header from '../components/header.jsx'
 
 export default function Advises() {
@@ -14,16 +14,6 @@ export default function Advises() {
     to: { opacity: 1 }, // конечные стили
     config: { duration: 300 } // настройки анимации
   })
-
-  const advises = () => {
-      return data.map((advise) => {
-        return (
-            <div key={advise.id} id='advise'>
-                <li>{advise.text} <a href={advise.link} target="_blank">{advise.link_name}</a></li>
-            </div>
-        )
-      })
-  }
 
   return (
     <animated.div id='advises' style={animation}>

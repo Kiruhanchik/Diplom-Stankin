@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './navigation-page.scss';
 import HomePage from './homepage-btn';
 import Header from './header.jsx';
