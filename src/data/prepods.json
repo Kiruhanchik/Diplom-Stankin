@@ -190,7 +190,117 @@
         "id": 1,
         "name": "Организация взаимодействия основных компонентов в системе ЧПУ АксиОМА Контрол для интеграции в нее новых технологий и решений // Автоматизация в промышленности. 2015. №5. с.10-15",
         "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2015/nmavt52015.pdf"
-      }
+      },
+      {
+        "id": 2,
+        "name": "Research and Optimization of the Development Process of Control Programs for CNC Systems Using a Specialized Postprocessor",
+        "reference": "https://doi.org/10.1109/RusAutoCon58002.2023.10272950"
+      },
+      {
+        "id": 3,
+        "name": "Синтез систем удалённой диагностики и мониторинга работы станков с ЧПУ с применением Web-компонентов // Автоматизация в промышленности, №5. 2021. с.13-18",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/diagnosticandmonitoring.pdf"
+      },
+      {
+        "id": 4,
+        "name": "Application of agile methodology at industrial manufacturing as part of the Industry 4.0. ICMTMTE 2020, IOP Conf. Series: Materials Science and Engineering 971 (2020) 052034",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Kovalev_2020_IOP_Conf_Ser_Mater_Sci_Eng_971_052034.pdf"
+      },
+      {
+        "id": 5,
+        "name": "An approach to the development of logical control systems for technological equipment in the concept of Industry 4.0. ICMTMTE 2020, MATEC Web of Conferences 329, 03044 (2020)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/matecconf_icmtmte2020_03044.pdfs"
+      },
+      {
+        "id": 6,
+        "name": "Development of a data collection system for a CNC system using cloud FRED technology and OPC UA specification. ICMTMTE 2020, MATEC Web of Conferences 329, 03043 (2020)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/matecconf_icmtmte2020_03043.pdf"
+      },
+      {
+        "id": 7,
+        "name": "Использование протокола OPC UA для мониторинга работы технологического оборудования, управляемого с помощью программно-реализованного контроллера // Автоматизация в промышленности, №5. 2020. с.37-40",
+        "reference": "https://avtprom.ru/system/files/09_nikishechkin.pdf"
+      },
+      {
+        "id": 8,
+        "name": "Approach to Development of Specialized Terminals for Equipment Control on the Basis of Shared Memory Mechanism. Lecture Notes in Electrical Engineering LNEE, volume 641. RusAutoCon 2019: Advances in Automation. pp 181-188",
+        "reference": "https://link.springer.com/chapter/10.1007%2F978-3-030-39225-3_20"
+      },
+      {
+        "id": 9,
+        "name": " An approach of developing solution for monitoring the status and parameters of technological equipment for the implementation of Industry 4.0",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Nikishechkin_2020_IOP_Conf._Ser.__Mater._Sci._Eng._709_044065.pdf"
+      },
+      {
+        "id": 10,
+        "name": "Construction of a specialized control system for brush machine and rounding the cutting edges of a metal cutting tool. In MATEC Web of Conferences",
+        "reference": "https://doi.org/10.1051/matecconf/201929800064"
+      },
+      {
+        "id": 11,
+        "name": "Research of Computational Capabilities of Software and Hardware Platforms to Run CNC System using Load Testing. In: 2019 International Russian Automation Conference (RusAutoCon), Sochi, Russia, 2019, pp. 1-4",
+        "reference": "https://ieeexplore.ieee.org/document/8867793"
+      },
+      {
+        "id": 12,
+        "name": "Построение системы мониторинга технологических процессов в рамках реализации концепции Industry 4.0 // Автоматизация в промышленности, №5. 2019. с.22-25",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_nchn.pdf"
+      },
+      {
+        "id": 13,
+        "name": "Использование специальных функций потоков ядра системы ЧПУ для определения производительности // Вестник современных исследований. Выпуск № 12-10 (27) (декабрь, 2018). с.395-398",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/Chervonnova.pdf"
+      },
+      {
+        "id": 14,
+        "name": "Approach to the construction of specialized portable terminals for monitoring and controlling technological equipment",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_01089.pdf"
+      },
+      {
+        "id": 15,
+        "name": "Подход к построению специализированных портативных терминалов для контроля и управления технологическим оборудованием // Автоматизация в промышленности , №6. 2018. с.63-67",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/nchn_avt2018.PDF"
+      },
+      {
+        "id": 16,
+        "name": "Подход к построению систем логического управления технологическим оборудованием для реализации концепции «Индустрия 4.0» // Автоматизация в промышленности, №5. 2017. с.5-9",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/nnkch.pdf"
+      },
+      {
+        "id": 17,
+        "name": "Реализация логической задачи ЧПУ и задачи производственной безопасности на основе внешних вычислительных модулей Soft PLC // Автоматизация в промышленности, №5. 2016. с.28-30",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/akkch.pdf"
+      },
+      {
+        "id": 18,
+        "name": "Управление электроавтоматикой токарный и токарно-фрезерных станков на базе Soft PLC // Автоматизация в промышленности, №4, 2014. с. 49-51",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/Binder1111.pdf"
+      },
+      {
+        "id": 19,
+        "name": "",
+        "reference": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "reference": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "reference": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "reference": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "reference": ""
+      } 
     ]
   },
   {
