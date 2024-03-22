@@ -28,6 +28,147 @@
         "id": 3,
         "name": "Основы построения однокомпьютерной системы ЧПУ с программно реализованным ядром и открытой модульной архитектурой // Вестник МГТУ «Станкин». 2008. №4. C. 82–93",
         "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2020/Upravlenie_stankom_s_dinamicheski_izmen_kinemat.pdf"
+      },
+      {
+        "id": 4,
+        "name": "Methodology for Building a CNC System Based on a Memory-Oriented Architecture",
+        "reference": "https://doi.org/10.1109/UralCon59258.2023.10291144"
+      },
+      {
+        "id": 5,
+        "name": "Разработка инструментария кроссплатформенной сборки ядра системы управления мехатронными системами // Вестник МГТУ «Станкин». – 2023. – № 4 (67). – С. 103–111",
+        "reference": ""
+      },
+      {
+        "id": 6,
+        "name": "Methodology and Features of the Development of Control Programs for Machine Tools with Dynamically Changing Kinematics",
+        "reference": "https://doi.org/10.1109/RusAutoCon58002.2023.10272738"
+      },
+      {
+        "id": 7,
+        "name": "Debugging Control Programs Using Interactive Models of Machine Tools",
+        "reference": "https://doi.org/10.1109/RusAutoCon58002.2023.10272914"
+      },
+      {
+        "id": 8,
+        "name": "Development of a Trajectory Planning Algorithm for Moving Measuring Instrument for Binding a Basic Coordinate System Based on a Machine Vision System",
+        "reference": "https://doi.org/10.1109/ICIEAM57311.2023.10138966"
+      },
+      {
+        "id": 9,
+        "name": "Разработка методики испытаний для СЧПУ станками с динамически изменяемой кинематикой // Вестник МГТУ Станкин, №1(64), 2023.с.26-34",
+        "reference": ""
+      },
+      {
+        "id": 10,
+        "name": "Методика разработки имитационной модели станка для взаимодействия с системой ЧПУ // Вестник МГТУ Станкин, №4(63), 2022.с.50-57",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2022/imit_model.pdf"
+      },
+      {
+        "id": 11,
+        "name": "Разработка параметрического цикла обработки деталей типа тела вращения со сложным профилем // Вестник МГТУ Станкин, №3(62), 2022.с.13-22",
+        "reference": ""
+      },
+      {
+        "id": 12,
+        "name": "Построение конфигурируемого статического анализатора управляющих программ систем ЧПУ // Вестник МГТУ Станкин, №3, 2021.с.8-12",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/PushkovEvstafievaMiloslavsky.pdf"
+      },
+      {
+        "id": 13,
+        "name": "Approach to Build a Universal Communication Protocol for Equipment of Different Manufacturers. Lecture Notes in Electrical Engineering",
+        "reference": "https://doi.org/10.1007/978-3-030-71119-1_81"
+      },
+      {
+        "id": 14,
+        "name": "Конфигуратор интерфейса оператора для систем управления технологическим оборудованием // Автоматизация в промышленности, №5. 2021. с.19-23",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/configuratoruserinterface.pdf"
+      },
+      {
+        "id": 15,
+        "name": "Extending functionality of the control system using MTConnect data collection standard. ICMTMTE 2020, IOP Conf. Series: Materials Science and Engineering 971 (2020) 042080",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Pushkov_2020_IOP_Conf._Ser.__Mater._Sci._Eng._971_042080.pdf"
+      },
+      {
+        "id": 16,
+        "name": "Real-time cutting simulation based on voxel model. In IOP Conference Series: Materials Science and Engineering (Vol. 709, No. 4, p. 044062). IOP Publishing",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Obukhov_2020_IOP_Conf._Ser.__Mater._Sci._Eng._709_044062.pdf"
+      },
+      {
+        "id": 17,
+        "name": "General-purpose Control System Adaptation for Gear Milling Tasks. In: 2019 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon). Vladivostok: IEEE, pp.1-5",
+        "reference": "https://doi.org/10.1109/FarEastCon.2019.8934441"
+      },
+      {
+        "id": 18,
+        "name": "Extending Functionality of Control System by Adding Contour Building Capabilities. In: 2019 International Russian Automation Conference (RusAutoCon), Sochi, Russia, 2019, pp. 1-5",
+        "reference": ""
+      },
+      {
+        "id": 19,
+        "name": "Сбор и визуализация эксплуатационных данных с технологического оборудования // Автоматизация в промышленности, №5. 2019. с.26-28",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_pse.pdf"
+      },
+      {
+        "id": 20,
+        "name": "Архитектура и реализация системы твёрдотельного моделирования обработки изделий в реальном времени // Автоматизация в промышленности, №5. 2019. с.9-13",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_ore.pdf"
+      },
+      {
+        "id": 21,
+        "name": "Extending Functionality of Control System by Adding Engraving Capabilities. In: 2018 International Russian Automation Conference (RusAutoCon). Sochi: IEEE. pp. 709-714",
+        "reference": ""
+      },
+      {
+        "id": 22,
+        "name": "Method of developing parametric machine cycles for modern CNC systems using high-level language. In: MATEC Web Conf. Volume 224, 2018. International Conference on Modern Trends in Manufacturing Technologies and Equipment (ICMTMTE 2018). Sevastopol, Russia, September 10-14, 2018. pp.705-711",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_01116.pdf"
+      },
+      {
+        "id": 23,
+        "name": "Практические аспекты применения языка высокого уровня в системе ЧПУ для реализации групповой обработки // Автоматизация в промышленности, №5. 2018. с.31-34",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/pse_avt.pdf"
+      },
+      {
+        "id": 24,
+        "name": "Control loops of a supply servo drive // Russian Engineering Research, 2016, Vol. 36, No. 9, pp. 774–780",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/bem.pdf"
+      },
+      {
+        "id": 25,
+        "name": "Моделирование контуров управления следящего привода подачи // СТИН. 2016. № 3. С. 7-14",
+        "reference": ""
+      },
+      {
+        "id": 26,
+        "name": "Практические аспекты применения программно-реализованного контроллера для управления электроавтоматикой вертикально-фрезерных станков Quaser MV184 // Автоматизация в промышленности, №5. 2016. с.14-17",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nnpe.pdf"
+      },
+      {
+        "id": 27,
+        "name": "Реализация задач управления электроавтоматикой на основе внешних вычислительных модулей Soft PLC в системе ЧПУ АксиОМА Контрол // Промышленные АСУ и контроллеры. №7, 2016. с. 3-9",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/kpe.pdf"
+      },
+      {
+        "id": 28,
+        "name": "Числовое программное управление фрезерными обрабатывающими центрами с использованием высокоскоростных протоколов связи // Автоматизация в промышленности, №5, 2015. c.24-26",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/avt520152426.pdf"
+      },
+      {
+        "id": 29,
+        "name": "Разработка аппаратных компонентов системы ЧПУ с использованием современных САПР // Автоматизация в промышленности, №9, 2014. c.35-39",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/avtvprom_mlpe.pdf"
+      },
+      {
+        "id": 30,
+        "name": "Построение специализированной системы ЧПУ для многокоординатных токарно-фрезерных обрабатывающих центров // Автоматизация в промышленности, №6, 2014. с.25-28",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/npem.pdf"
+      }
+      ,
+      {
+        "id": 31,
+        "name": "Практические аспекты построения многотерминального человеко-машинного интерфейса на примере системы ЧПУ АксиОМА Контрол // Автоматизация в промышленности. 2013. №5. С.37-41",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2013/37-41.pdf"
       }
     ]
   },
