@@ -275,32 +275,7 @@
         "id": 18,
         "name": "Управление электроавтоматикой токарный и токарно-фрезерных станков на базе Soft PLC // Автоматизация в промышленности, №4, 2014. с. 49-51",
         "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/Binder1111.pdf"
-      },
-      {
-        "id": 19,
-        "name": "",
-        "reference": ""
-      },
-      {
-        "id": 3,
-        "name": "",
-        "reference": ""
-      },
-      {
-        "id": 3,
-        "name": "",
-        "reference": ""
-      },
-      {
-        "id": 3,
-        "name": "",
-        "reference": ""
-      },
-      {
-        "id": 3,
-        "name": "",
-        "reference": ""
-      } 
+      }
     ]
   },
   {
@@ -371,6 +346,161 @@
         "id": 11,
         "name": "Построение инструментария отладки управляющих программ систем ЧПУ на языках высокого уровня // Приборы и системы. Управление, контроль, диагностика. 2008. №11. C. 19-24",
         "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2008/47355935.pdf"
+      },
+      {
+        "id": 12,
+        "name": "The Application of Technical Vision for Automation of Measuring Cycles in CNC Machines, 2023 International Ural Conference on Electrical Power Engineering (UralCon), Magnitogorsk, Russian Federation, 2023, pp. 639-645",
+        "reference": "https://doi.org/10.1109/UralCon59258.2023.10291073"
+      },
+      {
+        "id": 13,
+        "name": "Methodology for Building a CNC System Based on a Memory-Oriented Architecture, 2023 International Ural Conference on Electrical Power Engineering (UralCon), Magnitogorsk, Russian Federation, 2023, pp. 528-533",
+        "reference": "https://doi.org/10.1109/UralCon59258.2023.10291144"
+      },
+      {
+        "id": 14,
+        "name": "Разработка инструментария кроссплатформенной сборки ядра системы управления мехатронными системами // Вестник МГТУ «Станкин». – 2023. – № 4 (67). – С. 103–111",
+        "reference": ""
+      },
+      {
+        "id": 15,
+        "name": "Development of a Trajectory Planning Algorithm for Moving Measuring Instrument for Binding a Basic Coordinate System Based on a Machine Vision System, 2023 International Conference on Industrial Engineering, Applications and Manufacturing (ICIEAM), Sochi, Russian Federation, 2023, pp. 673-678",
+        "reference": "https://doi.org/10.1109/ICIEAM57311.2023.10138966"
+      },
+      {
+        "id": 16,
+        "name": "Integration of Intelligent Industrial Systems into a Workshop-Level Information Network. Conference: 2023 International Russian Smart Industry Conference (SmartIndustryCon)",
+        "reference": "https://doi.org/10.1109/SmartIndustryCon57312.2023.10110771"
+      },
+      {
+        "id": 17,
+        "name": "Методика разработки имитационной модели станка для взаимодействия с системой ЧПУ // Вестник МГТУ Станкин, №4(63), 2022.с.50-57",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2022/imit_model.pdf"
+      },
+      {
+        "id": 18,
+        "name": "Разработка параметрического цикла обработки деталей типа тела вращения со сложным профилем // Вестник МГТУ Станкин, №3(62), 2022.с.13-22",
+        "reference": ""
+      },
+      {
+        "id": 19,
+        "name": "Построение конфигурируемого статического анализатора управляющих программ систем ЧПУ // Вестник МГТУ Станкин, №3, 2021.с.8-12",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/PushkovEvstafievaMiloslavsky.pdf"
+      },
+      {
+        "id": 20,
+        "name": "Определение геометрических параметров и ориентации заготовки на станке с применением алгоритмов технического зрения// Вестник МГТУ Станкин, №2, 2021.с.8-12",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/NKrotovaRPushkov.pdf"
+      },
+      {
+        "id": 21,
+        "name": "Approach to Build a Universal Communication Protocol for Equipment of Different Manufacturers. Lecture Notes in Electrical Engineering, 2021, 729 LNEE, стр. 832–841",
+        "reference": "https://doi.org/10.1007/978-3-030-71119-1_81"
+      },
+      {
+        "id": 22,
+        "name": "Extending functionality of the control system using MTConnect data collection standard. ICMTMTE 2020, IOP Conf. Series: Materials Science and Engineering 971 (2020) 042080",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Pushkov_2020_IOP_Conf._Ser.__Mater._Sci._Eng._971_042080.pdf"
+      },
+      {
+        "id": 23,
+        "name": "Development of standardized tools for shopfloor programming of turning and turn-milling machines. In IOP Conference Series: Materials Science and Engineering (Vol. 709, No. 4, p. 044064)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Martinova_2020_IOP_Conf._Ser.__Mater._Sci._Eng._709_044064.pdf"
+      },
+      {
+        "id": 24,
+        "name": "General-purpose Control System Adaptation for Gear Milling Tasks. In: 2019 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon). Vladivostok: IEEE, pp.1-5",
+        "reference": "doi:https://doi.org/10.1109/FarEastCon.2019.8934441"
+      },
+      {
+        "id": 25,
+        "name": "Extending Functionality of Control System by Adding Contour Building Capabilities. In: 2019 International Russian Automation Conference (RusAutoCon), Sochi, Russia, 2019, pp. 1-5",
+        "reference": "https://ieeexplore.ieee.org/document/8867596"
+      },
+      {
+        "id": 26,
+        "name": "Сбор и визуализация эксплуатационных данных с технологического оборудования // Автоматизация в промышленности, №5. 2019. с.26-28",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_pse.pdf"
+      },
+      {
+        "id": 27,
+        "name": "Extending Functionality of Control System by Adding Engraving Capabilities. In: 2018 International Russian Automation Conference (RusAutoCon). Sochi: IEEE. pp. 709-714",
+        "reference": "http://toc.proceedings.com/41459webtoc.pdf"
+      },
+      {
+        "id": 28,
+        "name": "Method of developing parametric machine cycles for modern CNC systems using high-level language. In: MATEC Web Conf. Volume 224, 2018. International Conference on Modern Trends in Manufacturing Technologies and Equipment (ICMTMTE 2018). Sevastopol, Russia, September 10-14, 2018. pp.705-711",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_01116.pdf"
+      },
+      {
+        "id": 29,
+        "name": "Практические аспекты применения языка высокого уровня в системе ЧПУ для реализации групповой обработки // Автоматизация в промышленности, №5. 2018. с.31-34",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/pse_avt.pdf"
+      },
+      {
+        "id": 30,
+        "name": "Теоретические аспекты разработки программного комплекса для автоматизированной установки операционной системы реального времени AxiOMA RTOS // Вестник МГТУ Станкин, №3. 2016. с.78-81",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/npn.pdf"
+      },
+      {
+        "id": 31,
+        "name": "Практические аспекты применения программно-реализованного контроллера для управления электроавтоматикой вертикально-фрезерных станков Quaser MV184 // Автоматизация в промышленности, №5. 2016. с.14-17",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nnpe.pdf"
+      },
+      {
+        "id": 32,
+        "name": "Управление автоматической сменой инструмента на многоцелевых обрабатывающих центрах с применением унифицированных программных решений // Промышленные АСУ и контроллеры. №6, 2016. с. 19-24",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nnp.pdf"
+      },
+      {
+        "id": 33,
+        "name": "Реализация задач управления электроавтоматикой на основе внешних вычислительных модулей Soft PLC в системе ЧПУ АксиОМА Контрол // Промышленные АСУ и контроллеры. №7, 2016. с. 3-9",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/kpe.pdf"
+      },
+      {
+        "id": 34,
+        "name": "The Russian multi-functional CNC system AxiOMA control: Practical aspects of application // Automation and Remote Control. 2015, Volume 76, Issue 1, pp 179-186",
+        "reference": "http://link.springer.com/article/10.1134/S000511791501018X"
+      },
+      {
+        "id": 35,
+        "name": "Числовое программное управление фрезерными обрабатывающими центрами с использованием высокоскоростных протоколов связи // Автоматизация в промышленности, №5, 2015. c.24-26",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/avt520152426.pdf"
+      },
+      {
+        "id": 36,
+        "name": "Разработка аппаратных компонентов системы ЧПУ с использованием современных САПР // Автоматизация в промышленности, №9, 2014. c.35-39",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/avtvprom_mlpe.pdf"
+      },  
+      {
+        "id": 37,
+        "name": "Построение специализированной системы ЧПУ для многокоординатных токарно-фрезерных обрабатывающих центров // Автоматизация в промышленности, №6, 2014. с.25-28",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/npem.pdf"
+      },  
+      {
+        "id": 38,
+        "name": "Solution to the problems of axle synchronization and exact positioning in a numerical control system // Automation and Remote Control. January 2014, Volume 75, Issue 1, pp 129-138",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/mpkt.pdf"
+      },  
+      {
+        "id": 39,
+        "name": "Практические аспекты построения многотерминального человеко-машинного интерфейса на примере системы ЧПУ АксиОМА Контрол // Автоматизация в промышленности. 2013. №5. С.37-41",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2013/37-41.pdf"
+      },  
+      {
+        "id": 40,
+        "name": "Практические аспекты применения отечественной многофункциональной системы ЧПУ АксиОМА Контрол // Автоматизация в промышленности. 2012. №5. с.36-40",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2012/praktasp_.pdf"
+      },  
+      {
+        "id": 41,
+        "name": "Решение задач синхронизации и точного позиционирования осей в системе ЧПУ // Автоматизация в промышленности, 2011. №05. C. 30-35",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2011/30-35.pdf"
+      },  
+      {
+        "id": 42,
+        "name": "Реализация открытости управления электроавтоматикой станков в системе ЧПУ класса PCNC // Приборы и системы. Управление, контроль, диагностика.2011. №02. С. 11-16",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2011/20110406111210.pdf"
       }
     ],
     "books": [
@@ -388,6 +518,11 @@
         "id": 3,
         "name": "АВТОМАТИЗАЦИЯ ТЕХНОЛОГИЧЕСКИХ ПРОЦЕССОВ В МАШИНОСТРОЕНИИ. Часть – I. Числовое программное управление. Учебное пособие по подготовке специалистов с высшим профессиональным образованием для кадрового перевооружения машиностроительного комплекса России. М.: МГТУ СТАНКИН. 2010. 203 с.",
         "reference": ""
+      },
+      {
+        "id": 4,
+        "name": "Программирование систем ЧПУ HEIDENHAIN. Учебное пособие. – М.: МГТУ Станкин, 2010. – 87с",
+        "reference": ""
       }
     ]
   },
@@ -396,7 +531,24 @@
     "name": "Саламатин Евгений Валериевич",
     "mail": "salamatin@ncsystems.ru",
     "photo": "https://stankin.ru/uploads/files/file_5c35fd22b2796.jpg",
-    "job_title": "Заведующий лабораторией"
+    "job_title": "Заведующий лабораторией",
+    "publications": [
+      {
+        "id": 1,
+        "name": "Сбор и визуализация эксплуатационных данных с технологического оборудования // Автоматизация в промышленности, №5. 2019. с.26-28",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_pse.pdf"
+      },
+      {
+        "id": 2,
+        "name": "Практические аспекты применения языка высокого уровня в системе ЧПУ для реализации групповой обработки // Автоматизация в промышленности, №5. 2018. с.31-34",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/pse_avt.pdf"
+      },
+      {
+        "id": 3,
+        "name": "Method of developing parametric machine cycles for modern CNC systems using high-level language. In: MATEC Web Conf. Volume 224, 2018. International Conference on Modern Trends in Manufacturing Technologies and Equipment (ICMTMTE 2018). Sevastopol, Russia, September 10-14, 2018. pp.705-711",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_01116.pdf"
+      }
+    ]
   },
   {
     "id": 5,
@@ -412,6 +564,60 @@
       "Основы нечеткой логики",
       "Математическое моделирование",
       "Планирование эксперимента"
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "name": "Автоматизация систем освещения предприятий с использованием солнечной энергии",
+        "reference": "https://cyberleninka.ru/article/n/avtomatizatsiya-sistem-osvescheniya-predpriyatiy-s-ispolzovaniem-solnechnoy-energii"
+      },
+      {
+        "id": 2,
+        "name": "Формирование примеров обучающей и тестовой выборки нейронной сети на принципах планирования экспериментов",
+        "reference": "https://cyberleninka.ru/article/n/formirovanie-primerov-obuchayuschey-i-testovoy-vyborki-neyronnoy-seti-na-printsipah-planirovaniya-eksperimentov"
+      },
+      {
+        "id": 3,
+        "name": "Молекулярно-динамическое моделирование лизиновых дендримеров и их гибридов с биоактивными пептидами",
+        "reference": "https://cyberleninka.ru/article/n/molekulyarno-dinamicheskoe-modelirovanie-lizinovyh-dendrimerov-i-ih-gibridov-s-bioaktivnymi-peptidami"
+      },
+      {
+        "id": 4,
+        "name": "Контроль грузов на подъёмно-транспортных машинах",
+        "reference": "https://mirtr.elpub.ru/jour/article/view/1953"
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "name": "Использование библиотеки TensorFlow для машинного обучения при решении задач построения, обучения, оценки и использования нейронных сетей. Лабораторный практикум : Учеб. пособие",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=8b6500155d01130111ec16d2456ddc76"
+      },
+      {
+        "id": 2,
+        "name": "Дискретная математика и дискретные системы управления : Учеб. для академического бакалавриата",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=957600155d02f00a11e8caebf0c9185a"
+      },
+      {
+        "id": 3,
+        "name": "Теория дискретных систем управления",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=a837784b799faab7404244e141d13129"
+      },
+      {
+        "id": 4,
+        "name": "Планирование эксперимента №726 : Учеб. пособие",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=b2f400155d02f00a11e79d2859a14965"
+      },
+      {
+        "id": 5,
+        "name": "Технологии изготовления изделий из современных инструментальных материалов : Учеб. пособие",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=9523674c0c002fc348ffe571ddcc48aa"
+      },
+      {
+        "id": 6,
+        "name": "Экотехносферная безопасность технических систем : Учеб. пособие",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=8895f522266d177f45dd27b3e02f406a"
+      }
     ]
   },
   {
@@ -444,6 +650,121 @@
         "id": 4,
         "name": "Разработка средств визуализации и отладки управляющих программ для электроавтоматики, интегрированных в систему ЧПУ // Вестник МГТУ «Станкин», №4(23), 2012, с. 134-138.",
         "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/VESTNIK_N4_22_pp87-92.pdf"
+      },
+      {
+        "id": 5,
+        "name": "Использование протокола OPC UA для мониторинга работы технологического оборудования, управляемого с помощью программно-реализованного контроллера // Автоматизация в промышленности, №5. 2020. с.37-40",
+        "reference": "https://avtprom.ru/system/files/09_nikishechkin.pdf"
+      },
+      {
+        "id": 6,
+        "name": "Построение системы мониторинга технологических процессов в рамках реализации концепции Industry 4.0 // Автоматизация в промышленности, №5. 2019. с.22-25",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_nchn.pdf"
+      },
+      {
+        "id": 7,
+        "name": "Организация промежуточного уровня сбора информации с технологического оборудования для построения цифровых машиностроительных производств // Вестник современных исследований. Выпуск № 12-10 (27) (декабрь, 2018). C.299-301",
+        "reference": "Организация промежуточного уровня сбора информации с технологического оборудования для построения цифровых машиностроительных производств // Вестник современных исследований. Выпуск № 12-10 (27) (декабрь, 2018). C.299-301"
+      },
+      {
+        "id": 8,
+        "name": "Подход к построению специализированных портативных терминалов для контроля и управления технологическим оборудованием // Автоматизация в промышленности , №6. 2018. с.63-67",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/nchn_avt2018.PDF"
+      },
+      {
+        "id": 9,
+        "name": "Кроссплатформенная система сбора и обработки диагностической информации о работе технологического оборудования // Вестник МГТУ Станкин. – 2017. – № 1 (40). – С. 94-98",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/nkgn.pdf"
+      },
+      {
+        "id": 10,
+        "name": "Построение кроссплатформенной системы для сбора и обработки диагностической информации о работе технологического оборудования на промышленных предприятиях // Автоматизированные технологии и производства. 2016. №4(14). с.51-56",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nkg.pdf"
+      },
+      {
+        "id": 11,
+        "name": "Практические аспекты применения программно-реализованного контроллера для управления электроавтоматикой вертикально-фрезерных станков Quaser MV184 // Автоматизация в промышленности, №5. 2016. с.14-17",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nnpe.pdf"
+      },
+      {
+        "id": 12,
+        "name": "Практические аспекты применения отечественной комплектной системы ЧПУ СТАНКИН NC 201 // Автоматизация в промышленности, №6, 2014. c.38-41",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/fn.pdf"
+      },
+      {
+        "id": 13,
+        "name": "Практические аспекты построения многотерминального человеко-машинного интерфейса на примере системы ЧПУ АксиОМА Контрол // Автоматизация в промышленности. 2013. №5. С.37-41",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2013/37-41.pdf"
+      },
+      {
+        "id": 14,
+        "name": "Практические аспекты разработки модуля диагностики и контроля режущего инструмента в системе ЧПУ // Вестник МГТУ Станкин, №4(23), 2012, с. 93-97",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2012/VESTNIK_N4_22_pp92-97.pdf"
+      },
+      {
+        "id": 15,
+        "name": "Module for 3D Visualization of the Technological Process of Parts Automatic Sorting Controlled by SoftPLC",
+        "reference": "https://doi.org/10.1109/RusAutoCon58002.2023.10272826"
+      },
+      {
+        "id": 16,
+        "name": "Practical aspects of constructing a specialized control system for compact machines. ICMTMTE 2020, IOP Conf. Series: Materials Science and Engineering 971 (2020) 042085",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Nikishechkin_2020_IOP_Conf_Ser_Mater_Sci_Eng_971_042085.pdf"
+      },
+      {
+        "id": 17,
+        "name": "Development of a data collection system for a CNC system using cloud FRED technology and OPC UA specification. ICMTMTE 2020, MATEC Web of Conferences 329, 03043 (2020)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/matecconf_icmtmte2020_03043.pdf"
+      },
+      {
+        "id": 18,
+        "name": "Approach to Development of Specialized Terminals for Equipment Control on the Basis of Shared Memory Mechanism. Lecture Notes in Electrical Engineering LNEE, volume 641. RusAutoCon 2019: Advances in Automation. pp 181-188",
+        "reference": "https://link.springer.com/chapter/10.1007%2F978-3-030-39225-3_20"
+      },
+      {
+        "id": 19,
+        "name": "An approach of developing solution for monitoring the status and parameters of technological equipment for the implementation of Industry 4.0. In IOP Conference Series: Materials Science and Engineering (Vol. 709, No. 4, p. 044065). IOP Publishing",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Nikishechkin_2020_IOP_Conf._Ser.__Mater._Sci._Eng._709_044065.pdf"
+      },
+      {
+        "id": 20,
+        "name": "Construction of a specialized control system for brush machine and rounding the cutting edges of a metal cutting tool. In MATEC Web of Conferences (Vol. 298, p. 00064). EDP Sciences",
+        "reference": "https://doi.org/10.1051/matecconf/201929800064"
+      },
+      {
+        "id": 21,
+        "name": "Development of a method for the determination and registration of unauthorized data transmission channels at industrial manufactories. In MATEC Web of Conferences (Vol. 298, p. 00110). EDP Sciences",
+        "reference": "https://doi.org/10.1051/matecconf/201929800110"
+      },
+      {
+        "id": 22,
+        "name": "Approach to Assessing the Possibility of Functioning of CNC and PAC Systems on Various Software and Hardware Platforms. In: 2019 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon). Vladivostok: IEEE, pp.1-5",
+        "reference": "https://doi.org/10.1109/FarEastCon.2019.8933999"
+      },
+      {
+        "id": 23,
+        "name": "Approach to the Construction of Logical Control Systems for Technological Equipment for the Implementation of Industry 4.0 Concept. In: 2018 International Russian Automation Conference (RusAutoCon). Sochi: IEEE. pp. 1079-1083",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/RusAutoCon_NezhmetdinovRA_NikishechkinPA_NikichAN.pdf"
+      },
+      {
+        "id": 24,
+        "name": "Approach to the construction of specialized portable terminals for monitoring and controlling technological equipment. In: MATEC Web Conf. Volume 224, 2018. International Conference on Modern Trends in Manufacturing Technologies and Equipment (ICMTMTE 2018). Sevastopol, Russia, September 10-14, 2018. pp.546-554",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_01089.pdf"
+      },
+      {
+        "id": 25,
+        "name": "An approach to building a cross-platform system for the collection and processing of diagnostic information about working technological equipment for industrial enterprises",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/matecconf_icmtmte2017_03012.pdf"
+      },
+      {
+        "id": 26,
+        "name": "Approach to Programmable Controller Building by its Main Modules Synthesizing Based on Requirements Specification for Industrial Automation // 2017 International Conference on Industrial Engineering, Applications and Manufacturing (ICIEAM), 16-19 May, 2017.p.1-4",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/Kovalev_Nikishechkin_Grigoriev.pdf"
+      },
+      {
+        "id": 27,
+        "name": "Tools for Monitoring and Parameter Visualization in Computer Control Systems of Industrial Robots // Advances in Swarm and Computational Intelligence.  6th International Conference, ICSI 2015 held in conjunction with the Second BRICS Congress, CCI 2015, Beijing, June 25-28, 2015, Proceedings, Part II, p.200-207",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/document.pdf"
       }
     ]
   },
@@ -483,6 +804,76 @@
         "id": 5,
         "name": " Способ построения инструментария систем мониторинга и настройки параметров мехатронного технологического оборудования на основе специализированных программных средств // Мехатроника, автоматизация, управление. 2012, №7. с.45-50",
         "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/mns.pdf"
+      },
+      {
+        "id": 6,
+        "name": "Разработка инструментария для анализа контурной точности системы ЧПУ. Автоматизация в промышленности 2023. №11",
+        "reference": "https://avtprom.ru/system/files/DOI/2023/11/5._martinova_l.i..pdf"
+      },
+      {
+        "id": 7,
+        "name": "Построение специализированной системы ЧПУ для резьбошлифовальных станков // Автоматизация в промышленности, №5, 2015. c.38-40",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/38-40avt52015.pdf"
+      },
+      {
+        "id": 8,
+        "name": "Построение специализированной системы управления установкой послойного лазерного синтеза // Автоматизация в промышленности, №6, 2014. с.21-24",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/osmg.pdf"
+      },
+      {
+        "id": 9,
+        "name": "Практические аспекты построения многотерминального человеко-машинного интерфейса на примере системы ЧПУ АксиОМА Контрол // Автоматизация в промышленности. 2013. №5. С.37-41",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2013/37-41.pdf"
+      },
+      {
+        "id": 10,
+        "name": "Специфика реализации мониторинга технологических параметров в системе управления мехатронным оборудованием // Вестник МГТУ Станкин №4(17), 2011, с. 89-92",
+        "reference": "http://www.stankin.ru/vestnik-magazin/index.html"
+      },
+      {
+        "id": 11,
+        "name": "Расширение функциональных возможностей систем ЧПУ для управления механо-лазерной обработкой // Автоматизация в промышленности, 2011. №05. C. 49-53",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2011/49-53.pdf"
+      },
+      {
+        "id": 12,
+        "name": "Диагностика и прогноз износа режущего инструмента в процессе обработки на станках с ЧПУ // Автоматизация в промышленности. 2010. №5. C. 46-50",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2010/ToolDiag_AvP_5_2010.pdf"
+      },
+      {
+        "id": 13,
+        "name": "Integration of Intelligent Industrial Systems into a Workshop-Level Information Network. Conference: 2023 International Russian Smart Industry Conference (SmartIndustryCon)",
+        "reference": "https://doi.org/10.1109/SmartIndustryCon57312.2023.10110771"
+      },
+      {
+        "id": 14,
+        "name": "Practical Aspects of Ensuring Accuracy of Machining on CNC Machine Tools within Framework of “Smart Manufacturing”. 2020 International Russian Automation Conference (RusAutoCon). IEEE, 2020. Page(s): 898 - 902",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/09208079.pdf"
+      },
+      {
+        "id": 15,
+        "name": "Organization of Process Equipment Monitoring. In: 2019 XXI International Conference Complex Systems: Control and Modeling Problems (CSCMP). Samara",
+        "reference": "https://doi.org/10.1109/CSCMP45713.2019.8976506"
+      },
+      {
+        "id": 16,
+        "name": "General-purpose Control System Adaptation for Gear Milling Tasks. In: 2019 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon). Vladivostok: IEEE, pp.1-5",
+        "reference": "doi:https://doi.org/10.1109/FarEastCon.2019.8934441"
+      },
+      {
+        "id": 17,
+        "name": "Tools for Monitoring and Parameter Visualization in Computer Control Systems of Industrial Robots // Advances in Swarm and Computational Intelligence.  6th International Conference, ICSI 2015 held in conjunction with the Second BRICS Congress, CCI 2015, Beijing, June 25-28, 2015, Proceedings, Part II, p.200-207",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/document.pdf"
+      },
+      {
+        "id": 18,
+        "name": "Extending the functional capabilities of NC systems for control over mechano-laser processing // Automation and Remote Control, May 2014, Volume 75, Issue 5, pp 945-952",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/nsog.pdf"
+      },
+      {
+        "id": 19,
+        "name": "Diagnostics and forecasting of cutting tool wear at CNC machines. // Automation and Remote Control. 2012. Т. 73. № 4. p. 742-749",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2012/mgs.pdf"
       }
     ]
   },
@@ -514,6 +905,141 @@
         "id": 3,
         "name": "Подход к построению мультипротокольной системы ЧПУ // Автоматизация в промышленности. 2012. №5. с.8-11.",
         "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/08-11.pdf"
+      },
+      {
+        "id": 4,
+        "name": "Идентификация оператора станка ЧПУ с применением комбинированного способа // Автоматизация в промышленности 2022. № 05",
+        "reference": "https://avtprom.ru/system/files/DOI/2022/5/2._kovalev_02.pdf"
+      },
+      {
+        "id": 5,
+        "name": "Синтез систем удалённой диагностики и мониторинга работы станков с ЧПУ с применением Web-компонентов // Автоматизация в промышленности, №5. 2021. с.13-18",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/diagnosticandmonitoring.pdf"
+      },
+      {
+        "id": 6,
+        "name": "Создание инструментария мониторинга здоровья станка для цифрового производства // Автоматизация в промышленности, №5. 2020. с. 24-29",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Monitoring_zdorovia_stanka.pdf"
+      },
+      {
+        "id": 7,
+        "name": "Агрегирование информации о работе технологического оборудования с применением Industrial Internet of Things // Автоматизация в промышленности, №5. 2019. с.29-32",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_knkvch.pdf"
+      },
+      {
+        "id": 8,
+        "name": "Исследование вычислительных возможностей программно - аппаратных платформ с применением нагрузочных тестирований // Вестник современных исследований. Выпуск № 12-10 (27) (декабрь, 2018). с.217-220",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/Kovalev.pdf"
+      },
+      {
+        "id": 9,
+        "name": "Подход к построению систем логического управления технологическим оборудованием для реализации концепции «Индустрия 4.0» // Автоматизация в промышленности, №5. 2017. с.5-9",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/nnkch.pdf"
+      },
+      {
+        "id": 10,
+        "name": "Кроссплатформенная система сбора и обработки диагностической информации о работе технологического оборудования // Вестник МГТУ Станкин. – 2017. – № 1 (40). – С. 94-98",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/nkgn.pdf"
+      },
+      {
+        "id": 11,
+        "name": "Построение кроссплатформенной системы для сбора и обработки диагностической информации о работе технологического оборудования на промышленных предприятиях // Автоматизированные технологии и производства. 2016. №4(14). с.51-56",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nkg.pdf"
+      },
+      {
+        "id": 12,
+        "name": "Реализация логической задачи ЧПУ и задачи производственной безопасности на основе внешних вычислительных модулей Soft PLC // Автоматизация в промышленности, №5. 2016. с.28-30",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/akkch.pdf"
+      },
+      {
+        "id": 13,
+        "name": "Построение специализированной системы ЧПУ для резьбошлифовальных станков // Автоматизация в промышленности, №5, 2015. c.38-40",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/38-40avt52015.pdf"
+      },
+      {
+        "id": 14,
+        "name": "Enterprise Development Planning and AI-Based Technological Forecasting. Russ. Engin. Res. 43, 1284–1288 (2023)",
+        "reference": "https://doi.org/10.3103/S1068798X23100234"
+      },
+      {
+        "id": 15,
+        "name": "Modeling the Interaction of Technological Objects at Production Sites in a Virtual Reality Environment",
+        "reference": "https://doi.org/10.1109/RusAutoCon58002.2023.10272831"
+      },
+      {
+        "id": 16,
+        "name": "Development of an assistant chat-bot with voice control elements for teaching how to work with the CNC system",
+        "reference": "https://doi.org/10.1051/e3sconf/202340203003"
+      },
+      {
+        "id": 17,
+        "name": "Development of a Mobile Application for Training Operators to Work with Machine Tools with CNC Systems Using Augmented Reality // Proceedings - 2021 International Russian Automation Conference, RusAutoCon 2021, 2021, pp. 863–867",
+        "reference": "https://doi.org/10.1109/RusAutoCon52004.2021.9537320"
+      },
+      {
+        "id": 18,
+        "name": "Creation of CNC system’s components for monitoring machine tool health. Int J Adv Manuf Technol (2021)",
+        "reference": "https://doi.org/10.1007/s00170-021-07107-1"
+      },
+      {
+        "id": 19,
+        "name": "Development of a Method for Evaluating the Work and Determining the Performance of SoftPLC as Part of a CNC System // 2020 International Multi-Conference on Industrial Engineering and Modern Technologies, FarEastCon 2020, 2020, 9271449",
+        "reference": "https://doi.org/10.1109/FarEastCon50210.2020.9271449"
+      },
+      {
+        "id": 20,
+        "name": "Practical aspects of constructing a specialized control system for compact machines. ICMTMTE 2020, IOP Conf. Series: Materials Science and Engineering 971 (2020) 042085",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Nikishechkin_2020_IOP_Conf_Ser_Mater_Sci_Eng_971_042085.pdf"
+      },
+      {
+        "id": 21,
+        "name": "Application of agile methodology at industrial manufacturing as part of the Industry 4.0. ICMTMTE 2020, IOP Conf. Series: Materials Science and Engineering 971 (2020) 052034",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Kovalev_2020_IOP_Conf_Ser_Mater_Sci_Eng_971_052034.pdf"
+      },
+      {
+        "id": 22,
+        "name": "An approach to the development of logical control systems for technological equipment in the concept of Industry 4.0. ICMTMTE 2020, MATEC Web of Conferences 329, 03044 (2020)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/matecconf_icmtmte2020_03044.pdf"
+      },
+      {
+        "id": 23,
+        "name": "Development of a data collection system for a CNC system using cloud FRED technology and OPC UA specification. ICMTMTE 2020, MATEC Web of Conferences 329, 03043 (2020)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/matecconf_icmtmte2020_03043.pdf"
+      },
+      {
+        "id": 24,
+        "name": "Development of a method for the determination and registration of unauthorized data transmission channels at industrial manufactories. In MATEC Web of Conferences (Vol. 298, p. 00110). EDP Sciences",
+        "reference": "https://doi.org/10.1051/matecconf/201929800110"
+      },
+      {
+        "id": 25,
+        "name": "Big data analytics of the technological equipment based on Data Lake architecture. In MATEC Web of Conferences (Vol. 298, p. 00079). EDP Sciences",
+        "reference": "https://doi.org/10.1051/matecconf/201929800079"
+      },
+      {
+        "id": 26,
+        "name": "Approach to Assessing the Possibility of Functioning of CNC and PAC Systems on Various Software and Hardware Platforms. In: 2019 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon). Vladivostok: IEEE, pp.1-5",
+        "reference": "https://doi.org/10.1109/FarEastCon.2019.8933999"
+      },
+      {
+        "id": 27,
+        "name": "Research of Computational Capabilities of Software and Hardware Platforms to Run CNC System using Load Testing. In: 2019 International Russian Automation Conference (RusAutoCon), Sochi, Russia, 2019, pp. 1-4",
+        "reference": "https://ieeexplore.ieee.org/document/8867793"
+      },
+      {
+        "id": 28,
+        "name": "An approach to technological equipment performance information visualization system construction using augmented reality technology. In: MATEC Web Conf. Volume 224, 2018. International Conference on Modern Trends in Manufacturing Technologies and Equipment (ICMTMTE 2018). Sevastopol, Russia, September 10-14, 2018. pp.1447-1453",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_02093.pdf"
+      },
+      {
+        "id": 29,
+        "name": "An approach to building a cross-platform system for the collection and processing of diagnostic information about working technological equipment for industrial enterprises",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/matecconf_icmtmte2017_03012.pdf"
+      },
+      {
+        "id": 30,
+        "name": "Approach to Programmable Controller Building by its Main Modules Synthesizing Based on Requirements Specification for Industrial Automation // 2017 International Conference on Industrial Engineering, Applications and Manufacturing (ICIEAM), 16-19 May, 2017.p.1-4",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/Kovalev_Nikishechkin_Grigoriev.pdf"
       }
     ]
   },
@@ -531,6 +1057,86 @@
         "id": 1,
         "name": "Повышение надежности программного обеспечения систем управления посредством автоматизации процесса тестирования // Приборы и системы. Управление, контроль, диагностика. 2009. №11. C.23-28.",
         "reference": ""
+      },
+      {
+        "id": 2,
+        "name": "АВТОМАТИЗАЦИЯ ОЦЕНКИ НАДЕЖНОСТИ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ДЛЯ СИСТЕМ УПРАВЛЕНИЯ ТЕХНОЛОГИЧЕСКИМИ ПРОЦЕССАМИ",
+        "reference": "https://naukaru.ru/ru/nauka/article/14224/view"
+      },
+      {
+        "id": 3,
+        "name": "СПОСОБ ОБУЧЕНИЯ ИСКУССТВЕННОЙ НЕЙРОННОЙ СЕТИ И ЕГО ПРИМЕНЕНИЕ ДЛЯ ТЕХНИЧЕСКОЙ ДИАГНОСТИКИ КОММУТАТОРНЫХ ЭЛЕКТРОННЫХ СХЕМ",
+        "reference": "https://naukaru.ru/ru/nauka/article/18866/view"
+      },
+      {
+        "id": 4,
+        "name": "РАЗРАБОТКА ИНТЕЛЛЕКТУАЛЬНЫХ АВТОМАТИЗИРОВАННЫХ СИСТЕМ УПРАВЛЕНИЯ В МАШИНОСТРОЕНИИ",
+        "reference": "https://naukaru.ru/ru/nauka/article/23796/view"
+      },
+      {
+        "id": 5,
+        "name": "РАЗРАБОТКА НЕЙРОСЕТЕВОЙ МОДЕЛИ ДЛЯ МОНИТОРИНГА ЗАБОЛЕВАЕМОСТИ И ПРОГНОЗИРОВАНИЯ ЭФФЕКТИВНОСТИ ПРОТИВОЭПИДЕМИЧЕСКИХ МЕР",
+        "reference": "https://naukaru.ru/ru/nauka/article/39831/view"
+      },
+      {
+        "id": 6,
+        "name": "СОВЕРШЕНСТВОВАНИЕ СИСТЕМЫ ДИСТАНЦИОННОГО ОБУЧЕНИЯ В ТЕХНИЧЕСКИХ ВУЗАХ НА БАЗЕ ИСКУССТВЕННЫХ НЕЙРОННЫХ СЕТЕЙ",
+        "reference": "https://naukaru.ru/ru/nauka/article/14226/view"
+      },
+      {
+        "id": 7,
+        "name": "АППАРАТНО-ПРОГРАММНЫЙ СПОСОБ БОРЬБЫ С КОМПЬЮТЕРНЫМИ ВИРУСАМИ",
+        "reference": "https://naukaru.ru/ru/nauka/article/18872/view"
+      },
+      {
+        "id": 8,
+        "name": "РАЗРАБОТКА ТРЕБОВАНИЙ К АППАРАТНО-ПРОГРАММНОМУ КОМПЛЕКСУ ИНТЕЛЛЕКТУАЛЬНЫХ СИСТЕМ УПРАВЛЕНИЯ В МАШИНОСТРОЕНИИ",
+        "reference": "https://naukaru.ru/ru/nauka/article/24072/view"
+      },
+      {
+        "id": 9,
+        "name": "ОЦЕНКА КАЧЕСТВА ИНТЕЛЛЕКТУАЛЬНЫХ СИСТЕМ С ГИБКОЙ ПРОГРАММИРУЕМОЙ АРХИТЕКТУРОЙ",
+        "reference": "https://naukaru.ru/ru/nauka/article/42580/view"
+      },
+      {
+        "id": 10,
+        "name": "ТЕХНОЛОГИЯ МОДУС-НС В РАЗРАБОТКЕ ВЫСОКОНАДЕЖНЫХ И ЖИВУЧИХ СИСТЕМ УПРАВЛЕНИЯ ТЕХНИЧЕСКИМИ ОБЪЕКТАМИ",
+        "reference": "https://naukaru.ru/ru/nauka/article/14341/view"
+      },
+      {
+        "id": 11,
+        "name": "РАЗРАБОТКА И ИССЛЕДОВАНИЕ СПОСОБА КОНТРОЛЯ РАБОТОСПОСОБНОСТИ АВТОМАТИЗИРОВАННЫХ СИСТЕМ УПРАВЛЕНИЯ НА БАЗЕ ИСКУССТВЕННЫХ НЕЙРОННЫХ СЕТЕЙ",
+        "reference": "https://naukaru.ru/ru/nauka/article/22955/view"
+      },
+      {
+        "id": 12,
+        "name": "КРИПТОГРАФИЧЕСКАЯ ЗАЩИТА ИНФОРМАЦИИ В РАСПРЕДЕЛЕННЫХ СИСТЕМАХ УПРАВЛЕНИЯ",
+        "reference": "https://naukaru.ru/ru/nauka/article/24386/view"
+      },
+      {
+        "id": 13,
+        "name": "РАЗРАБОТКА И ПРИМЕНЕНИЕ НЕЙРОСЕТЕВЫХ МОДЕЛЕЙ В АВТОМАТИЗАЦИИ УПРАВЛЕНИЯ ОБОРУДОВАНИЕМ И ТЕХНОЛОГИЧЕСКИМИ ПРОЦЕССАМИ",
+        "reference": "https://naukaru.ru/ru/nauka/article/49271/view"
+      },
+      {
+        "id": 14,
+        "name": "СОВЕРШЕНСТВОВАНИЕ РАБОТЫ ГОРОДСКОГО ТРАНСПОРТА НА БАЗЕ СИСТЕМЫ УПРАВЛЕНИЯ С ЭЛЕМЕНТАМИ ИСКУССТВЕННОГО ИНТЕЛЛЕКТА",
+        "reference": "https://naukaru.ru/ru/nauka/article/14380/view"
+      },
+      {
+        "id": 15,
+        "name": "МОДЕЛИРОВАНИЕ ОТКАЗОВ ЭЛЕКТРОННЫХ СХЕМ С ПОМОЩЬЮ НЕЙРОННЫХ СЕТЕЙ",
+        "reference": "https://naukaru.ru/ru/nauka/article/23218/view"
+      },
+      {
+        "id": 16,
+        "name": "СОВЕРШЕНСТВОВАНИЕ СТРУКТУРЫ ИНТЕЛЛЕКТУАЛЬНЫХ АВТОМАТИЗИРОВАННЫХ СИСТЕМ УПРАВЛЕНИЯ НА БАЗЕ ТЕХНОЛОГИЙ СТРАТЕГИЧЕСКОГО, КОНКУРЕНТНОГО И СИТУАЦИОННОГО УПРАВЛЕНИЯ",
+        "reference": "https://naukaru.ru/ru/nauka/article/28238/view"
+      },
+      {
+        "id": 17,
+        "name": "Разработка нейросетевой модели для прогнозирования вероятности землетрясений",
+        "reference": "https://naukaru.ru/ru/nauka/article/65850/view"
       }
     ]
   },
@@ -539,7 +1145,24 @@
     "name": "Рыбников Сергей Валентинович",
     "mail": "rybnikov@ncsystems.ru",
     "photo": "https://stankin.ru/uploads/files/file_5c35fa269cd3f.jpg",
-    "job_title": "Заведующий лабораторией"
+    "job_title": "Заведующий лабораторией",
+    "publications": [
+      {
+        "id": 1,
+        "name": "Архитектура и реализация системы твёрдотельного моделирования обработки изделий в реальном времени // Автоматизация в промышленности, №5. 2019. с.9-13",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_ore.pdf"
+      },
+      {
+        "id": 2,
+        "name": "Построение специализированной системы ЧПУ для резьбошлифовальных станков // Автоматизация в промышленности, №5, 2015. c.38-40",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/38-40avt52015.pdf"
+      },
+      {
+        "id": 3,
+        "name": "Архитектура систем ЧПУ с интеллектуальными контроллерами. //Мехатроника, автоматизация, управление. №2. 2003",
+        "reference": "http://novtex.ru/mech/annot2003_02.htm#7"
+      }
+    ]
   },
   {
     "id": 11,
@@ -550,6 +1173,85 @@
     "disciplines": [
       "Интеллектуальные системы",
       "Распределенный мониторинг в корпоративных системах"
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "name": "Модели и инструментальные средства сбора и обработки информации о работе технологического оборудования в цифровых производствах // Вестник МГТУ «Станкин». – 2019. – № 3 (50). – С. 103-107",
+        "reference": ""
+      },
+      {
+        "id": 2,
+        "name": "Построение системы мониторинга технологических процессов в рамках реализации концепции Industry 4.0 // Автоматизация в промышленности, №5. 2019. с.22-25",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_nchn.pdf"
+      },
+      {
+        "id": 3,
+        "name": "Подход к построению специализированных портативных терминалов для контроля и управления технологическим оборудованием // Автоматизация в промышленности , №6. 2018. с.63-67",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/nchn_avt2018.PDF"
+      },
+      {
+        "id": 4,
+        "name": "Кроссплатформенная система сбора и обработки диагностической информации о работе технологического оборудования // Вестник МГТУ Станкин. – 2017. – № 1 (40). – С. 94-98",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/nkgn.pdf"
+      },
+      {
+        "id": 5,
+        "name": "Построение кроссплатформенной системы для сбора и обработки диагностической информации о работе технологического оборудования на промышленных предприятиях // Автоматизированные технологии и производства. 2016. №4(14). с.51-56",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nkg.pdf"
+      },
+      {
+        "id": 6,
+        "name": "Теоретические аспекты разработки программного комплекса для автоматизированной установки операционной системы реального времени AxiOMA RTOS // Вестник МГТУ Станкин, №3. 2016. с.78-81",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/npn.pdf"
+      },
+      {
+        "id": 7,
+        "name": "Application of agile methodology at industrial manufacturing as part of the Industry 4.0. ICMTMTE 2020, IOP Conf. Series: Materials Science and Engineering 971 (2020) 052034",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Kovalev_2020_IOP_Conf_Ser_Mater_Sci_Eng_971_052034.pdf"
+      },
+      {
+        "id": 8,
+        "name": "Approach to Development of Specialized Terminals for Equipment Control on the Basis of Shared Memory Mechanism. Lecture Notes in Electrical Engineering LNEE, volume 641. RusAutoCon 2019: Advances in Automation. pp 181-188",
+        "reference": "https://link.springer.com/chapter/10.1007%2F978-3-030-39225-3_20"
+      },
+      {
+        "id": 9,
+        "name": "An approach of developing solution for monitoring the status and parameters of technological equipment for the implementation of Industry 4.0. In IOP Conference Series: Materials Science and Engineering (Vol. 709, No. 4, p. 044065)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Nikishechkin_2020_IOP_Conf._Ser.__Mater._Sci._Eng._709_044065.pdf"
+      },
+      {
+        "id": 10,
+        "name": "Research of Computational Capabilities of Software and Hardware Platforms to Run CNC System using Load Testing. In: 2019 International Russian Automation Conference (RusAutoCon), Sochi, Russia, 2019, pp. 1-4",
+        "reference": "https://ieeexplore.ieee.org/document/8867793"
+      },
+      {
+        "id": 11,
+        "name": "Approach to the Construction of Logical Control Systems for Technological Equipment for the Implementation of Industry 4.0 Concept. In: 2018 International Russian Automation Conference (RusAutoCon). Sochi: IEEE. pp. 1079-1083",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/RusAutoCon_NezhmetdinovRA_NikishechkinPA_NikichAN.pdf"
+      },
+      {
+        "id": 12,
+        "name": "Approach to the construction of specialized portable terminals for monitoring and controlling technological equipment. In: MATEC Web Conf. Volume 224, 2018. International Conference on Modern Trends in Manufacturing Technologies and Equipment (ICMTMTE 2018). Sevastopol, Russia, September 10-14, 2018. pp.546-554",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_01089.pdf"
+      },
+      {
+        "id": 13,
+        "name": "An approach to building a cross-platform system for the collection and processing of diagnostic information about working technological equipment for industrial enterprises",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/matecconf_icmtmte2017_03012.pdf"
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "name": "Инструментальные системы интегрированного машиностроительного производства : Учеб. пособие для вузов",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=a014462af219111149b39522eeab865b"
+      },
+      {
+        "id": 2,
+        "name": "Инструментальное обеспечение машиностроительных производств : Лаб. практикум. - М. : МГТУ Станкин, 2016. - 100 с. : ил. - Библиогр.:с.99 : 58 р. Методическое пособие",
+        "reference": "https://doc.stankin.ru/1CBiblio/#e1cib/data/Справочник.БиблЗаписи?ref=a195547fd65c5ce047add5e730192391"
+      }
     ]
   },
   {
@@ -576,6 +1278,11 @@
         "id": 1,
         "name": "Удаленное управление сервоприводами CAN и мониторинг их работы на основе микрокомпьютеров ARM и с использованием протокола OPC UA // Автоматизация в промышленности, №10. 2019. с.9-12",
         "reference": "http://www.ncsystems.ru/images/ncs_basics/bibliography/2019/udalennoe_upravlenie.pdf"
+      },
+      {
+        "id": 2,
+        "name": "Использование протокола OPC UA для мониторинга работы технологического оборудования, управляемого с помощью программно-реализованного контроллера // Автоматизация в промышленности, №5. 2020. с.37-40",
+        "reference": "https://avtprom.ru/system/files/09_nikishechkin.pdf"
       }
     ]
   },
@@ -584,7 +1291,14 @@
     "name": "Коваленко Артем Валерьевич",
     "mail": "avk@niat.ru",
     "photo": "https://stankin.ru/uploads/files/default-user.png",
-    "job_title": "Доцент"
+    "job_title": "Доцент",
+    "publications": [
+      {
+        "id": 1,
+        "name": "Обобщённые алгоритмы управления электронно-лучевой и лазерной обработкой для универсальной системы ЧПУ  // Автоматизация в промышленности, №5. 2020. с.18-20",
+        "reference": "https://avtprom.ru/system/files/DOI/2020/5/03_kovalenko.pdf"
+      }
+    ]
   },
   {
     "id": 17,
@@ -596,6 +1310,18 @@
       "Программирование и основы алгоритмизации",
       "Программирование и настройка систем ЧПУ",
       "Структура и математическое обеспечение систем управления"
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "name": "Разработка инструментария для анализа контурной точности системы ЧПУ. Автоматизация в промышленности 2023. №11",
+        "reference": "https://avtprom.ru/system/files/DOI/2023/11/5._martinova_l.i..pdf"
+      },
+      {
+        "id": 2,
+        "name": "Automation of Configuration of Slave Devices via the EtherCAT Fieldbus for the Collection of Technological Data",
+        "reference": "https://doi.org/10.1109/RusAutoCon58002.2023.10272728"
+      }
     ]
   },
   {
@@ -607,6 +1333,28 @@
     "disciplines": [
       "Информатика",
       "Информационные технологии"
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "name": "Research and Optimization of the Development Process of Control Programs for CNC Systems Using a Specialized Postprocessor",
+        "reference": "https://doi.org/10.1109/RusAutoCon58002.2023.10272950"
+      },
+      {
+        "id": 2,
+        "name": "Development of an assistant chat-bot with voice control elements for teaching how to work with the CNC system",
+        "reference": "https://doi.org/10.1051/e3sconf/202340203003"
+      },
+      {
+        "id": 3,
+        "name": "Solution of logical problem of numerical program control using the software-implemented // IOP Conference Series: Earth and Environmental Sciencethis link is disabled, 2021, 839(3), 032038",
+        "reference": "https://iopscience.iop.org/article/10.1088/1755-1315/839/3/032038"
+      },
+      {
+        "id": 4,
+        "name": "An approach to the development of logical control systems for technological equipment in the concept of Industry 4.0. ICMTMTE 2020, MATEC Web of Conferences 329, 03044 (2020)",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/matecconf_icmtmte2020_03044.pdf"
+      }
     ]
   },
   {
@@ -614,7 +1362,44 @@
     "name": "Фокин Николай Николаевич",
     "mail": "nikolfokin@gmail.com",
     "photo": "https://stankin.ru/uploads/files/default-user.png",
-    "job_title": "Старший преподаватель"
+    "job_title": "Старший преподаватель",
+    "publications": [
+      {
+        "id": 1,
+        "name": "Разработка механизма взаимодействия установочных макропрограмм, циклов позиционирования, поворота плоскости и циклов обработки в системе числового программного управ‑ ления // Вестник МГТУ «Станкин». – 2023. – № 3 (66). – С. 121–128.",
+        "reference": ""
+      },
+      {
+        "id": 2,
+        "name": "Разработка и отладка с помощью цифрового двойника системы ЧПУ кроссплатформенного цикла фрезерования зубьев звездочек цепных передач // Автоматизация в промышленности 2022. № 05",
+        "reference": "http://avtprom.ru/article/razrabotka-i-otladka-s-pomoshchy"
+      },
+      {
+        "id": 3,
+        "name": "Подход к созданию унифицированной системы программирования токарно-фрезерных станков с ЧПУ в диалоговом режиме // Автоматизация в промышленности, №5. 2019. с.14-17",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_mf.pdf"
+      },
+      {
+        "id": 4,
+        "name": "Creation of cross-platform toolkit and methods of programming trusted CNC systems. International Scientific Conference Energy Management of Municipal Facilities and Environmental Technologies (EMMFT-2023). E3S Web of Conf. Volume 458, 2023",
+        "reference": "https://doi.org/10.1051/e3sconf/202345809018"
+      },
+      {
+        "id": 5,
+        "name": "Development of a Cross-Platform Software Application for Programming CNC Machine Tools",
+        "reference": "https://doi.org/10.1109/ICIEAM57311.2023.10139283"
+      },
+      {
+        "id": 6,
+        "name": "Development of standardized tools for shopfloor programming of turning and turn-milling machines. In IOP Conference Series: Materials Science and Engineering (Vol. 709, No. 4, p. 044064). IOP Publishing",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2020/Martinova_2020_IOP_Conf._Ser.__Mater._Sci._Eng._709_044064.pdf"
+      },
+      {
+        "id": 7,
+        "name": "An approach to creation of a unified system of programming CNC machines in the dialog mode. In: MATEC Web Conf. Volume 224, 2018. International Conference on Modern Trends in Manufacturing Technologies and Equipment (ICMTMTE 2018). Sevastopol, Russia, September 10-14, 2018. pp.1-5",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/matec/matecconf_icmtmte2018_01101.pdf"
+      }
+    ]
   },
   {
     "id": 20,
@@ -698,6 +1483,98 @@
         "id": 14,
         "name": "Специфика построения панелей управления систем ЧПУ по типу универсальных программно-аппаратных компонентов // Автоматизация и современные технологии. 2010. №7. C. 34-40",
         "reference": "https://www.mashin.ru/jurnal/archiv.php/?id=2&njro=201007&yy=2010&PHPSESSID=82591cb427045ba2c312908da40668aa"
+      },
+      {
+        "id": 15,
+        "name": "Практические аспекты проведения тестовых испытаний программ логического управления технологическим оборудованием // Вестник МГТУ Станкин, №1(64), 2023.с.56-62",
+        "reference": ""
+      },
+      {
+        "id": 16,
+        "name": "Синтез систем удалённой диагностики и мониторинга работы станков с ЧПУ с применением Web-компонентов // Автоматизация в промышленности, №5. 2021. с.13-18",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/diagnosticandmonitoring.pdf"
+      },
+      {
+        "id": 17,
+        "name": "Агрегирование информации о работе технологического оборудования с применением Industrial Internet of Things // Автоматизация в промышленности, №5. 2019. с.29-32",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2019/avt_knkvch.pdf"
+      },
+      {
+        "id": 18,
+        "name": "Интеграция данных систем логического управления в «умное» производство на основе концепции Industry 4.0 // Автоматизация в промышленности, №5. 2018. с.11-15",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2018/knm.pdf"
+      },
+      {
+        "id": 19,
+        "name": "Подход к построению систем логического управления технологическим оборудованием для реализации концепции «Индустрия 4.0» // Автоматизация в промышленности, №5. 2017. с.5-9",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2017/nnkch.pdf"
+      },
+      {
+        "id": 20,
+        "name": "Практические аспекты применения программно-реализованного контроллера для управления электроавтоматикой вертикально-фрезерных станков Quaser MV184 // Автоматизация в промышленности, №5. 2016. с.14-17",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nnpe.pdf"
+      },
+      {
+        "id": 21,
+        "name": "Управление автоматической сменой инструмента на многоцелевых обрабатывающих центрах с применением унифицированных программных решений // Промышленные АСУ и контроллеры. №6, 2016. с. 19-24",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2016/nnp.pdf"
+      },
+      {
+        "id": 22,
+        "name": "Числовое программное управление фрезерными обрабатывающими центрами с использованием высокоскоростных протоколов связи // Автоматизация в промышленности, №5, 2015. c.24-26",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2015/avt520152426.pdf"
+      },
+      {
+        "id": 23,
+        "name": "Построение специализированной системы ЧПУ для многокоординатных токарно-фрезерных обрабатывающих центров // Автоматизация в промышленности, №6, 2014. с.25-28",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/npem.pdf"
+      },
+      {
+        "id": 24,
+        "name": "Управление электроавтоматикой токарный и токарно-фрезерных станков на базе Soft PLC // Автоматизация в промышленности, №4, 2014. с. 49-51",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2014/Binder1111.pdf"
+      },
+      {
+        "id": 25,
+        "name": " Применение программно-реализованных логических контроллеров в системах автоматизации упаковочного оборудования // Автоматизация в промышленности. 2012. №11 c.23-28",
+        "reference": "http://avtprom.ru/article/primenenie-programmno-realizovan"
+      },
+      {
+        "id": 26,
+        "name": "Практические аспекты применения отечественной многофункциональной системы ЧПУ АксиОМА Контрол // Автоматизация в промышленности. 2012. №5. с.36-40",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2012/praktasp_.pdf"
+      },
+      {
+        "id": 27,
+        "name": "Расширение функциональных возможностей систем ЧПУ для управления механо-лазерной обработкой // Автоматизация в промышленности, 2011. №05. C. 49-53",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2011/49-53.pdf"
+      },
+      {
+        "id": 28,
+        "name": "Реализация открытости управления электроавтоматикой станков в системе ЧПУ класса PCNC // Приборы и системы. Управление, контроль, диагностика.2011. №02. С. 11-16",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2011/20110406111210.pdf"
+      },
+      {
+        "id": 29,
+        "name": "Применение технологии клиент-сервер при проектировании контроллера типа SoftPLC для решения логической задачи в рамках систем ЧПУ // Автоматизация и современные технологии, №3, 2010. с. 31-37",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2010/clienst_server_technology.pdf"
+      },
+      {
+        "id": 30,
+        "name": "Повышение качества архитектурных решений систем ЧПУ на онове программно реализованного контроллера типа SoftPLC // Автоматизация и современные технологии, №6, 2008. с. 33-35",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2008/quality_architecture.pdf"
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "name": "Автоматизация технологических процессов в машиностроении. Учебное пособие. – М.:МГТУ «Станкин», 2011. – 86 с",
+        "reference": ""
+      },
+      {
+        "id": 2,
+        "name": "Графические системы и интерфейс оператора: учебное пособие. – М.: МГТУ Станкин, 2010. – 81с",
+        "reference": ""
       }
     ]
   },
@@ -706,7 +1583,24 @@
     "name": "Кротова Наталия Алексеевна",
     "mail": "n.krotova@stankin.ru",
     "photo": "https://stankin.ru/uploads/files/default-user.png",
-    "job_title": "Инженер"
+    "job_title": "Инженер",
+    "publications": [
+      {
+        "id": 1,
+        "name": "Определение геометрических параметров и ориентации заготовки на станке с применением алгоритмов технического зрения// Вестник МГТУ Станкин, №2, 2021.с.8-12",
+        "reference": "http://ncsystems.ru/images/ncs_basics/appliedpublications/2021/NKrotovaRPushkov.pdf"
+      },
+      {
+        "id": 2,
+        "name": "The Application of Technical Vision for Automation of Measuring Cycles in CNC Machines",
+        "reference": "https://doi.org/10.1109/UralCon59258.2023.10291073"
+      },
+      {
+        "id": 3,
+        "name": "Development of a Trajectory Planning Algorithm for Moving Measuring Instrument for Binding a Basic Coordinate System Based on a Machine Vision System",
+        "reference": "https://doi.org/10.1109/ICIEAM57311.2023.10138966"
+      }
+    ]
   },
   {
     "id": 22,

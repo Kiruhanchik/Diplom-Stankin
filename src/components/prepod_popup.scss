@@ -79,9 +79,9 @@
                     font-weight: 400;
                     text-decoration: none;
                     color: black;
-                    transition: 0.3s;
                     &:hover {
                         color: rgb(180, 12, 12);
+                        text-decoration: underline;
                     }
                 }
             }
@@ -99,9 +99,9 @@
                     font-weight: 400;
                     text-decoration: none;
                     color: black;
-                    transition: 0.3s;
                     &:hover {
                         color: rgb(180, 12, 12);
+                        text-decoration: underline;
                     }
                 }
             }
