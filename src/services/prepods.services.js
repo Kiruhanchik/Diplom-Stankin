@@ -11,6 +11,7 @@ const prepods = ({setActive, setPrepod}) => {
                 <img src={prepod.photo} alt={prepod.name} />
                 <div id='bio'>
                     <p className='prepod-name'>{prepod.name}</p>
+                    <p className='prepod-job'>{prepod.job_title}</p>
                     <a className='prepod-mail' href={href}>{prepod.mail}</a>
                     <button onClick={() => {setActive(true); setPrepod(prepod); console.log(prepod)}}>Подробнее</button>
                 </div>
