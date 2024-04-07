@@ -5,7 +5,6 @@ import PrepodPopup from './prepod_popup';
 import { useState } from 'react';
 import Header from './header.jsx';
 import { useSpring, animated } from 'react-spring'
-import Dark_theme from '../components/dark_theme.jsx'
 import prepods from '../services/prepods.services.js';
 
   
@@ -30,7 +29,6 @@ export default function PrepodConnect() {
                 <div id='prepods'>
                     {prepods({setActive, setPrepod})}
                 </div>
-                <Dark_theme/>
             </main>
         </animated.div>
     )

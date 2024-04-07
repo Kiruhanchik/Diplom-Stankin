@@ -13,11 +13,11 @@
         align-items: center;
         justify-content: center;
         box-shadow: 3px 3px 7px grey;
-        height: 250px;
+        height: 300px;
         transition: 0.3s;
         img {
             width: 400px;
-            height: 200px;
+            height: 240px;
             filter: grayscale(100%);
             transition: 0.3s;
         }
@@ -31,6 +31,27 @@
             box-shadow: 5px 5px 9px grey;
             img {
                 filter: grayscale(0%);
+            }
+        }
+    }
+}
+
+@media (max-width: 320px) {
+    #pages {
+        display: flex;
+        flex-direction: column;
+        #page {
+            margin-top: 5%;
+            height: 160px;
+            width: 70%;
+            img {
+                width: 100%;
+                height: 130px;
+                filter: grayscale(100%);
+                transition: 0.3s;
+            }
+            p {
+                font-size: 80%;
             }
         }
     }

@@ -83,8 +83,8 @@
 
 @media (max-width: 320px) {
     #titulnik {
-        transform: scale(0.9);
         height: auto;
         width: auto;
+        display: none;
     }
 }

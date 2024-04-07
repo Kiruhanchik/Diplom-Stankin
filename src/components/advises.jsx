@@ -3,7 +3,6 @@ import HomePage from './homepage-btn'
 import './advises.scss'
 import students from '../img/students.jpg';
 import { useSpring, animated } from 'react-spring'
-import Dark_theme from '../components/dark_theme.jsx'
 import advises from '../services/advises.services.js'
 import Header from '../components/header.jsx'
 
@@ -29,7 +28,6 @@ export default function Advises() {
             </ul>
           </section>
           <img src={students} alt="students-img" />
-          <Dark_theme/>
         </main>
     </animated.div>
   )
